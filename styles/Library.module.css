@@ -1,0 +1,20 @@
+.authorList {
+  margin-left: -2.6em;
+  margin-top: -10px;
+}
+
+.authorList li {
+  margin-bottom: 6px;
+}
+
+.author {
+  font-size: 14px;
+}
+
+.grayBubble {
+  background-color: #333;
+  color: #fff;
+  border-radius: 50%;
+  font-weight: bold;
+  padding: 10px;
+}

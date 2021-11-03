@@ -1,0 +1,36 @@
+.p {
+  margin-bottom: 1.125rem;
+  font-size: 1rem;
+  line-height: 1.68;
+}
+
+.p > ul {
+  margin-left: -1.5em;
+}
+
+.p > ul > li {
+  margin-bottom: 1em;
+}
+
+.p > h4:first-child {
+  font-weight: 900;
+  background-color: #e9e9e9;
+  padding: 10px;
+  margin-bottom: 30px;
+  font-size: 1.2rem;
+}
+
+.p > h4 {
+  font-weight: 900;
+  background-color: #e9e9e9;
+  padding: 10px;
+  margin-bottom: 30px;
+}
+
+.p a {
+  color: #3344dd;
+}
+
+.p > h3 {
+  font-size: 1.4rem;
+}

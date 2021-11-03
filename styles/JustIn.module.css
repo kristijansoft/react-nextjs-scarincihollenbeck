@@ -1,0 +1,53 @@
+.JustInCarouselContent {
+  margin: 1rem;
+  padding: 0.4rem;
+  background-color: white;
+  min-height: 350px;
+}
+
+.justInHeader {
+  font-size: 0.7rem;
+  color: white;
+  background: linear-gradient(360deg, #901918 60%, #dd2624 100%);
+  min-height: 38px;
+  padding: 10px;
+}
+
+.category {
+  float: left;
+  font-size: 0.8rem;
+}
+
+.category svg {
+  margin-right: 4px;
+  width: 15px;
+}
+.date {
+  float: right;
+  font-size: 0.8rem;
+}
+.justInContent {
+  height: 227px;
+  text-align: center;
+}
+
+.justInContent img {
+  margin-top: 1rem;
+}
+
+.tag {
+  color: #901918;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 1rem;
+}
+
+.tag {
+  text-align: center;
+}
+
+.justInContent > h5 {
+  font-size: 12px;
+  color: black;
+  padding: 3px;
+}

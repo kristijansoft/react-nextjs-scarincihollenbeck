@@ -1,0 +1,22 @@
+/** Starting at 0 **/
+.menu > div {
+  min-width: 100%;
+}
+
+@media (min-width: 767px) {
+  .menu > div {
+    min-width: 660px;
+  }
+}
+
+@media (min-width: 992px) {
+  .menu > div {
+    min-width: 920px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .menu > div {
+    min-width: 1200px;
+  }
+}

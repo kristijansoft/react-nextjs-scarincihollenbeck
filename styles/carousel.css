@@ -1,0 +1,47 @@
+.react-multi-carousel-list {
+  overflow: inherit;
+  overflow-x: hidden !important;
+}
+.react-multiple-carousel__arrow:hover {
+  background: rgba(255, 255, 255, 0) !important;
+}
+.react-multiple-carousel__arrow--right {
+  right: -1.2% !important;
+}
+.react-multiple-carousel__arrow--left {
+  left: -1.2% !important;
+}
+.react-multiple-carousel__arrow {
+  background: rgba(255, 255, 255, 0) !important;
+}
+.react-multiple-carousel__arrow::before {
+  color: black !important;
+}
+
+@media (max-width: 499px) {
+  .react-multiple-carousel__arrow--right {
+    display: none !important;
+  }
+  .react-multiple-carousel__arrow--left {
+    display: none !important;
+  }
+}
+
+@media (min-width: 2004px) {
+  .just-in-container > .react-multi-carousel-list > .react-multiple-carousel__arrow--right {
+    right: -1% !important;
+  }
+
+  .just-in-container > .react-multi-carousel-list > .react-multiple-carousel__arrow--left {
+    left: -1% !important;
+  }
+}
+
+@media (min-width: 2475px) {
+  .just-in-container > .react-multi-carousel-list > .react-multiple-carousel__arrow--right {
+    right: -0.5% !important;
+  }
+  .just-in-container > .react-multi-carousel-list > .react-multiple-carousel__arrow--left {
+    left: -0.5% !important;
+  }
+}

@@ -1,0 +1,7 @@
+/** Buttons **/
+.btnDanger,
+.redGrad {
+  font-weight: bold;
+  color: #fff;
+  background: linear-gradient(360deg, #901918 60%, #dd2624 100%), #333333;
+}

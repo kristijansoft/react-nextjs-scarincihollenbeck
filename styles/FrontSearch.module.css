@@ -1,0 +1,9 @@
+.mw75 {
+  width: 100%;
+}
+
+@media (min-width: 767px) {
+  .mw75 {
+    width: 75%;
+  }
+}

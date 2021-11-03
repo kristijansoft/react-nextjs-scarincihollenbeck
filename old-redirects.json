@@ -1,0 +1,4498 @@
+[
+  {
+    "source": "/pix11-morning-show-discusses-donald-sterling-apology-sports-entertainment-lawyer-anthony-r-caruso",
+    "destination": "/anthony-caruso-discuses-donald-sterling/",
+    "statusCode": 301
+  },
+  {
+    "source": "/international-business-publication-corporateintl-names-2014-tax-law-firm-of-the-year-in-new-jersey",
+    "destination": "/corporateintl-names-2014-tax-law-firm/",
+    "statusCode": 301
+  },
+  {
+    "source": "/corporateintl-names-2014-tax-law-firm",
+    "destination": "/international-business-publication-corporateintl-names-2014-tax-law-firm-of-the-year-in-new-jersey/",
+    "statusCode": 301
+  },
+  {
+    "source": "/brand-new-world-future-practicing-medicine-new-jersey",
+    "destination": "/the-future-practicing-medicine/",
+    "statusCode": 301
+  },
+  {
+    "source": "/the-future-practicing-medicine",
+    "destination": "/the-future-of-practicing-medicine/",
+    "statusCode": 301
+  },
+  {
+    "source": "/ocean-driving-directions",
+    "destination": "/ocean-township-driving-directoins/",
+    "statusCode": 301
+  },
+  {
+    "source": "/scarinci-hollenbeck-welcomes-sharp-mahoney-attorneys",
+    "destination": "/sharp-mahoney-join-scarinci-hollenbeck/",
+    "statusCode": 301
+  },
+  {
+    "source": "/administration/earl-manguiat__trashed",
+    "destination": "/administration/earl-manguiat/",
+    "statusCode": 301
+  },
+  {
+    "source": "/administration/john-palumbo__trashed",
+    "destination": "/administration/john-palumbo/",
+    "statusCode": 301
+  },
+  {
+    "source": "/administration/katerin-traugh__trashed",
+    "destination": "/administration/katerin-traugh/",
+    "statusCode": 301
+  },
+  {
+    "source": "/administration/peter-s-moeller__trashed",
+    "destination": "/administration/peter-s-moeller/",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/congratulations/holiday-video-2019",
+    "destination": "/firm-news/congratulations/2019-holiday-video/",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/business-law/will-commercial-space-travel-become-big-business-in-2013",
+    "destination": "/category/law-firm-insights/business-law/",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/2019-holiday-video__trashed",
+    "destination": "/firm-news/uncategorized/2019-holiday-video/",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/2019-holiday-video-2",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/test-1",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/cannabis-law/federal-marijuana-legalization-bill-more-act-advancing-in-us-house",
+    "destination": "/law-firm-insights/cannabis-law/more-act-advancing-in-us-house/",
+    "statusCode": 301
+  },
+  {
+    "source": "/happy-holidays-2018",
+    "destination": "/2019-happy-holidays/",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/congratulations/2019-holiday-video",
+    "destination": "/2019-happy-holiday/",
+    "statusCode": 301
+  },
+  {
+    "source": "/careers/securities-and-regulatory-attorney",
+    "destination": "/careers/",
+    "statusCode": 301
+  },
+  {
+    "source": "/careers/litigation-attorney",
+    "destination": "/careers/",
+    "statusCode": 301
+  },
+  {
+    "source": "/make-payment",
+    "destination": "https://secure.lawpay.com/pages/scarincihollenbeck/operating",
+    "statusCode": 301
+  },
+  {
+    "source": "/payments/([^/]+)",
+    "destination": "https://secure.lawpay.com/pages/scarincihollenbeck/operating",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/http-www-businesslawnews-com-interpretational-risk-in-takaful-insurance-products-takaful-insurance",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/just-in/njicle-presents-theodore-roosevelt-and-the-progressive-era",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorney-search-results",
+    "destination": "/attorneys/",
+    "statusCode": 301
+  },
+  {
+    "source": "/scarinci-hollenbeck-law-firm-news",
+    "destination": "/category/firm-news/",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/business-law/bankruptcy-creditors-rights/banks-unveil-bankruptcy-plans-in-living-wills-2",
+    "destination": "/law-firm-insights/business-law/bankruptcy-creditors-rights/banks-unveil-bankruptcy-plans-in-living-wills/",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/entertainment-and-sports/lower-effective-tax-rate",
+    "destination": "/law-firm-insights/entertainment-and-sports/",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/business-law/another-sports-barrestaurant-owner-must-pay-the-price-for-illegal-interception-of-pay-per-view-programming",
+    "destination": "/law-firm-insights/business-law/restaurant-pay-the-price-for-illegal-ipay-per-view-programming/",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/business-law/the-key-to-a-successful-start-up-practice-makes-perfect",
+    "destination": "/law-firm-insights/business-law/successful-start-up-practice-makes-perfect/",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/business-law/mistakes-to-avoid-in-raising-money-for-your-start-up-business",
+    "destination": "/law-firm-insights/business-law/money-for-your-start-up-business/",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/business-law/securities-law/will-it-soon-be-easier-for-new-york-and-new-jersey-start-ups-to-go-public",
+    "destination": "/law-firm-insights/business-law/securities-law/new-york-and-new-jersey-start-ups-to-go-public/",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/environmental-land-use/lsrp-post-hurricane-sandy-site-evaluations",
+    "destination": "/law-firm-insights/environmental-land-use/10-key-changes-to-nj-site-remediation-reform-act/",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/entertainment-and-sports/new-jersey-parties-remediating",
+    "destination": "/law-firm-insights/environmental-land-use/10-key-changes-to-nj-site-remediation-reform-act/",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/business-law/bankruptcy-creditors-rights/creditors-rights/buy-a-picasso-detroit-chapter-9-bankruptcy",
+    "destination": "/category/law-firm-insights/business-law/bankruptcy-creditors-rights/creditors-rights/",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/entertainment-and-sports/daily-fantasy-sports-co",
+    "destination": "/law-firm-insights/entertainment-and-sports/new-jersey-adopts-fantasy-sports-rules/",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/environmental-land-use/epa-releases-pfas-action-plan%ef%bb%bf",
+    "destination": "/law-firm-insights/environmental-land-use/epa-releases-pfas-action-plan/",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/business-law/bankruptcy-creditors-rights/business/biotech-files-for-chapter-7",
+    "destination": "/category/law-firm-insights/business-law/bankruptcy-creditors-rights/business/",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/new-jersey-cyber-security-lawyer-moderate-symposium",
+    "destination": "/category/firm-news/",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-events/hurricane-sandy-recovery-and-rebuild-seminar",
+    "destination": "/quick-news/superstorm-sandy-suit-settlements/",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/business-law/important-new-jersey-remediation-deadlines-are-approaching-are-you-ready",
+    "destination": "/law-firm-insights/commercial-real-estate/real-estate-commercial-leasing/",
+    "statusCode": 301
+  },
+  {
+    "source": "/new-jersey-licensed-site-remediation-professionals-lsrps-must-be-hired-for-all-environmental-remediation-work-in-new-jersey/",
+    "destination": "/category/environmental",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/environmental-land-use/proposed-bill-would-reinstate-requirement-for-a-certification-of-no-contamination-for-a-de-minimis-exemption-under-new-jerseys-industrial-site-recovery-act",
+    "destination": "/law-firm-insights/environmental-land-use/",
+    "statusCode": 301
+  },
+  {
+    "source": "/de-minimis-exemption-under-new-jerseys-industrial-site-recovery-act/",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/harvey-r-poe",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/passing-attorney-harvey-r-poe/",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/intellectual-property/copyrighted-material-is-highly-transformative",
+    "destination": "/law-firm-insights/intellectual-property/transformative-use-copyrighted-material-highly-subjective/",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/business-law/will-new-jersey-medical-marijuana-dispensaries-finally-get-off-the-ground",
+    "destination": "/law-firm-insights/cannabis-law/medical-marijuana-act-amendment/",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/business-law/securities-law/will-there-be-a-new-loophole-for-insider-trading",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/business-law/securities-law/will-there-be-a-new-loophole-for-insider-trading-2",
+    "destination": "/law-firm-insights/business-law/securities-law/will-there-be-a-new-loophole-for-insider-trading/",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/entertainment-and-sports/entertainment-business-not-immune-to-hurricane-sandy",
+    "destination": "/category/law-firm-insights/entertainment-and-sports/",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/business-law/securities-law/investment-fraud-after-hurricane-sandy",
+    "destination": "/category/law-firm-insights/business-law/insurance/",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/business-law/insurance/hurricanes-sandy-and-business-interruption-insurance-policies",
+    "destination": "/category/law-firm-insights/business-law/insurance/",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/business-law/insurance/deductibles-do-not-apply-to-hurricane-sandy-related-insurance-claims-is-this-good-for-policyholders",
+    "destination": "/category/law-firm-insights/business-law/insurance/",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/business-law/tips-for-new-york-and-new-jersey-businesses-impacted-by-hurricane-sandy",
+    "destination": "/category/law-firm-insights/business-law/insurance/",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/business-law/reporting-insurance-claims-from-damage-caused-by-hurricane-sandy",
+    "destination": "/category/law-firm-insights/business-law/insurance/",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/business-law/new-jersey-launches-loan-program-for-businesses-impacted-by-superstorm-sandy",
+    "destination": "/category/law-firm-insights/business-law/insurance/",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/business-law/securities-law/will-superstorm-sandy-victims-benefit-from-irs-relaxation-of-401k-plan-requirements",
+    "destination": "/category/law-firm-insights/business-law/insurance/",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/business-law/11112-2",
+    "destination": "/law-firm-insights/business-law/a-new-federal-trade-secrets-law-for-the-new-year/",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/business-law/how-new-jerseys-proposed-uniform-fiduciary-standard-will-impact-brokers-financial-advisors%ef%bb%bf",
+    "destination": "/law-firm-insights/business-law/fiduciary-standard-impact-brokers-financial-advisors/",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/business-law/will-new-jersey-online-gambling-industry-survive-dojs-new-wire-act-interpretation%ef%bb%bf",
+    "destination": "/law-firm-insights/business-law/online-gambling-industry-survive-dojs/",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/business-law/expanded-regulatory-flexibility-act-aims-to-streamline-regulations-for-nj-small-businesses%ef%bb%bf",
+    "destination": "/law-firm-insights/business-law/streamline-regulations-for-nj-small-businesses/",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/litigation/commercial-litigation/constitutional-right-to-jury-trial-trumps-nj-alternative-dispute-resolution-statute",
+    "destination": "/law-firm-insights/litigation/commercial-litigation/nj-alternative-dispute-resolution-statute/",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/business-law/small-business-fire-and-emergency-precautions-tips-for-before-and-after-a-disaster",
+    "destination": "/law-firm-insights/business-law/",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/business-law/businesses-should-review-arbitration-clauses-in-light-of-recent-nj-supreme-court-decision",
+    "destination": "/law-firm-insights/business-law/clauses-in-light-of-recent-nj-supreme-court-decision/",
+    "statusCode": 301
+  },
+  {
+    "source": "/category/corporate-compliance",
+    "destination": "/category/law-firm-insights/litigation/corporate-compliance/",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/business-law/bankruptcy-creditors-rights/energy-company-bankruptcies-increasing",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/entertainment-and-sports/vidangel-loses-court-case",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/entertainment-and-sports/intricacies-of-nfl-contracts-revealed",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/business-law/bankruptcy-creditors-rights/abengoa-bioenergy-bankruptcy",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/entertainment-and-sports/jersey-boys-copyright-infringement",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/entertainment-and-sports/emmy-rossum-contract-dispute",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/entertainment-and-sports/nhl-golden-knights-reveal",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/business-law/bankruptcy-creditors-rights/dowling-college-bankruptcy",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/business-law/mylan-coal-tax",
+    "destination": "/law-firm-insights/business-law/mylan-coal-tax-2/",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/business-law/bankruptcy-creditors-rights/american-apparel-loses-bankruptcy-fight",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/business-law/bankruptcy-creditors-rights/sports-authority-bankruptcy-impact",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/business-law/bankruptcy-creditors-rights/ez-worldwide-express-chapter-11",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/entertainment-and-sports/star-trek-fan-film",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/environmental-land-use/innocent-party-remediation-nj",
+    "destination": "/law-firm-insights/environmental-land-use/innocent-party-remediation-grant/",
+    "statusCode": 301
+  },
+  {
+    "source": "/category/law-firm-insights/litigation/cyber-security",
+    "destination": "/category/law-firm-insights/cyber-security/",
+    "statusCode": 301
+  },
+  {
+    "source": "/category/law-firm-insights/general-practice",
+    "destination": "/category/law-firm-insights/business-law/general-practice/",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/labor-employment/is-it-time-to-update-your-employee-handbook-conflicting-provisions-can-spell-doom-in-litigation",
+    "destination": "/law-firm-insights/labor-employment/conflicting-provisions-can-spell-doom-in-litigation/",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/entertainment-and-sports/will-the-bachelor-discrimination-lawsuit-break-new-legal-ground-in-entertainment-law",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/litigation/commercial-litigation/security-breaches-can-lead-to-costly-business-lawsuits",
+    "destination": "/law-firm-insights/litigation/commercial-litigation/costly-business-lawsuits/",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/cyber-security/survey-reveals-many-business-executives-lack-cybersecurity-confidence",
+    "destination": "/law-firm-insights/cyber-security/executives-lack-cybersecurity-confidence/",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/labor-employment/employees-vs-independent-contractors-nj-supreme-court-to-address-complex-issue",
+    "destination": "/law-firm-insights/labor-employment/nj-supreme-court-to-address-complex-issue/",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/business-law/bankruptcy-creditors-rights/business/insolvency-alerts-january-2012",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/tax/taxes/fraud/tax-agencies-in-u-s-u-k-and-australia-announce-partnership-to-target-offshore-accounts",
+    "destination": "/law-firm-insights/tax/taxes/fraud/partnership-to-target-offshore-accounts/",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/tax/taxes/fraud/u-s-france-sign-intergovernmental-agreement-to-combat-offshore-tax-evasion",
+    "destination": "/law-firm-insights/tax/taxes/fraud/u-s-france-agreement-to-combat-offshore-tax-evasion/",
+    "statusCode": 301
+  },
+  {
+    "source": "/practices/environmental-and-land-use",
+    "destination": "/practices/environmental/",
+    "statusCode": 301
+  },
+  {
+    "source": "/category/firm-news/commercial-real-estate-firm-news",
+    "destination": "/category/firm-news/real-estate-news/",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/environmental-land-use/registration-deadline-approaching-for-businesses-providing-soil-and-fill-recycling-services",
+    "destination": "/law-firm-insights/environmental-land-use/businesses-providing-soil-and-fill-recycling-services/",
+    "statusCode": 301
+  },
+  {
+    "source": "/covid-19-resources",
+    "destination": "/covid-19-crisis-management-unit/",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/covid-19-alerts/after-action-planning-for-businesses-should-start-now",
+    "destination": "/firm-news/covid-19-alerts/after-action-planning-for-businesses/",
+    "statusCode": 301
+  },
+  {
+    "source": "/practices/cyber-security-data-protection",
+    "destination": "/practices/cyber-security-data-privacy/",
+    "statusCode": 301
+  },
+  {
+    "source": "/practices/cyber-security-and-data-protection",
+    "destination": "/practices/cyber-security-data-privacy/",
+    "statusCode": 301
+  },
+  {
+    "source": "/administration/russell-s-ascher",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/administration/tina-ross",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/covid-19-alerts/cleaning-and-environmental-firms-should-consider-the-legal-risks-before-taking-on-covid-19-disinfection",
+    "destination": "/firm-news/covid-19-alerts/covid-19-disinfection-legal-risks/",
+    "statusCode": 301
+  },
+  {
+    "source": "/practices/sports-and-entertainment",
+    "destination": "/practices/entertainment-and-media/",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/covid-19-alerts/will-your-nj-business-be-ready-to-open-cdc-offers-guidance-for-cleaning-public-spaces",
+    "destination": "/firm-news/covid-19-alerts/will-your-nj-business-be-ready-to-open/",
+    "statusCode": 301
+  },
+  {
+    "source": "/category/diversity/wish",
+    "destination": "/category/diversity/women-lead/",
+    "statusCode": 301
+  },
+  {
+    "source": "/scarinci-hollenbeck-federal-ppp-loan",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/business-law/bankruptcy-creditors-rights/small-business-bankruptcies-decline-for-fourth-consecutive-quarter",
+    "destination": "/law-firm-insights/business-law/bankruptcy-creditors-rights/small-business-bankruptcies-decline/",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-events/clarence-thomas-legacy-on-pbs",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-events/renowned-nj-litigator-to-discuss-clarence-thomas-legacy-on-pbs",
+    "destination": "/firm-events/clarence-thomas-legacy-on-pbs/",
+    "statusCode": 301
+  },
+  {
+    "source": "/category/law-firm-insights/education-law",
+    "destination": "/category/law-firm-insights/public-law/education-law/",
+    "statusCode": 301
+  },
+  {
+    "source": "/category/law-firm-insights/environmental-land-use",
+    "destination": "/category/law-firm-insights/environmental/",
+    "statusCode": 301
+  },
+  {
+    "source": "/category/test-category",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/category/firm-news/featured",
+    "destination": "/category/featured/",
+    "statusCode": 301
+  },
+  {
+    "source": "/category/firm-news/just-in",
+    "destination": "/category/just-in/",
+    "statusCode": 301
+  },
+  {
+    "source": "/category/firm-news/covid-19-alerts",
+    "destination": "/category/covid-19-alerts",
+    "statusCode": 301
+  },
+  {
+    "source": "/category/covid-19-alerts/",
+    "destination": "/category/covid-19-alerts",
+    "statusCode": 301
+  },
+  {
+    "source": "/quick-news/",
+    "destination": "/category/quick-news",
+    "statusCode": 301
+  },
+  {
+    "source": "/quick-news",
+    "destination": "/cattegory/quick-news",
+    "statusCode": 301
+  },
+  {
+    "source": "/category/quick-news/",
+    "destination": "/category/quick-news",
+    "statusCode": 301
+  },
+  {
+    "source": "/mergers-acquisition",
+    "destination": "/category/mergers-acquisition",
+    "statusCode": 301
+  },
+  {
+    "source": "/make-payment/",
+    "destination": "https://secure.lawpay.com/pages/scarincihollenbeck/operating",
+    "statusCode": 301
+  },
+  {
+    "source": "/archive/firm-news/",
+    "destination": "/archives/firm-news/",
+    "statusCode": 301
+  },
+  {
+    "source": "/category/environmental-land-use/",
+    "destination": "/category/environmental",
+    "statusCode": 301
+  },
+  {
+    "source": "/archive/firm-news",
+    "destination": "/archives/firm-news/",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/public-law/education-law/public-law-a-3969-s-2392/",
+    "destination": "/covid-19-education-alerts/public-law-a-3969-s-2392",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/public-law/education-law/public-law-a-3969-s-2392",
+    "destination": "/covid-19-education-alerts/public-law-a-3969-s-2392",
+    "statusCode": 301
+  },
+  {
+    "source": "/quick-news/aca-article-sec-compliance/",
+    "destination": "/quick-news/aca-insights-sec-compliance",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/2232-amendments-mean",
+    "destination": "/firm-news/2232-amendments-mean",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/the-proposed-new-sec-practice-rules",
+    "destination": "/firm-news/the-proposed-new-sec-practice-rules",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/sec-focuses-on-cybersecurity-weaknesses",
+    "destination": "/firm-news/sec-focuses-on-cybersecurity-weaknesses",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/amendments-to-the-codes-of-arbitration-procedure",
+    "destination": "/firm-news/amendments-to-the-codes-of-arbitration-procedure",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/customer-industry-codes-arbitration-procedures",
+    "destination": "/firm-news/customer-industry-codes-arbitration-procedures",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/intellectual-property/stronger-patents-act-of-2019-controversy/",
+    "destination": "/law-firm-insights/intellectual-property/patents/stronger-patents-act-of-2019-controversy/",
+    "statusCode": 301
+  },
+  {
+    "source": "/diversity",
+    "destination": "/diversity-group/",
+    "statusCode": 301
+  },
+  {
+    "source": "/practices/corporate-transactions-and-business/",
+    "destination": "/practices/corporate-transactions-business",
+    "statusCode": 301
+  },
+  {
+    "source": "/practices/corporate-transactions-and-business",
+    "destination": "/practices/corporate-transactions-business",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/business-law/concerned-about-how-taxes-may-impact-your-wealth-check-out-scarinci-hollenbecks-new-video-series",
+    "destination": "/category/tax",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/tax/taxes/business-tax/scarinci-hollenbecks-new-social-and-digital-media-experience",
+    "destination": "/category/tax",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/business-law/scarinci-hollenbecks-tax-video-series-can-help-business-owners-manage-their-wealth/",
+    "destination": "/category/tax",
+    "statusCode": 301
+  },
+  {
+    "source": "/practices/sports-and-entertainment-law/",
+    "destination": "/practices/entertainment-and-media",
+    "statusCode": 301
+  },
+  {
+    "source": "/practices/sports-and-entertainment-law",
+    "destination": "/practices/entertainment-and-media",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/counsel/anthony-r-caruso-esq/",
+    "destination": "/practices/entertainment-and-media",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/business-law/bankruptcy-creditors-rights/lord-whats-an-indubitable-equivalent-part-1-of-2/",
+    "destination": "/category/bankruptcy-creditors-rights",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/business-law/scarinci-hollenbecks-tax-video-series-can-help-business-owners-manage-their-wealth",
+    "destination": "/category/tax",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/entertainment-and-sports/jackson-hologram-spurs-patent-suit",
+    "destination": "/category/entertainment-and-sports",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/entertainment-and-sports/new-york-jets-cheerleader-sues-pay",
+    "destination": "/category/entertainment-and-sports",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/entertainment-and-sports/kardashian-sisters-highlight-the-pitfalls-of-celebrity-endorsements",
+    "destination": "/category/entertainment-and-sports",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/entertainment-and-sports/ncaa-basketball-recruiting-guidelines-get-modern-makeover",
+    "destination": "/category/entertainment-and-sports",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/entertainment-and-sports/bachelor-producers-seek-to-dismiss-discrimination-lawsuit",
+    "destination": "/category/entertainment-and-sports",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/entertainment-and-sports/what-happens-to-a-band-name-after-they-breakup",
+    "destination": "/category/entertainment-and-sports",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/entertainment-and-sports/olympic-athletes-need-to-think-before-they-tweet-during-games",
+    "destination": "/category/entertainment-and-sports",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/entertainment-and-sports/whats-happening-redskins-name",
+    "destination": "/category/entertainment-and-sports",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/legal-updates/development-of-cenote-falls-shopping-center-begins-in-belize",
+    "destination": "/category/firm-news",
+    "statusCode": 301
+  },
+  {
+    "source": "/just-in/peter-r-yarem-joins-scarinci-hollenbeck-as-partner/",
+    "destination": "/category/firm-news",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/entertainment-and-sports/stolen-art-two-conflicting-cases",
+    "destination": "/category/entertainment-and-sports",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/entertainment-and-sports/extreme-sports-extreme-liability",
+    "destination": "/category/entertainment-and-sports",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/entertainment-and-sports/ncaa-falling-foul-antitrust-laws",
+    "destination": "/category/law-firm-insights",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/business-law/bankruptcy-creditors-rights/madoff-trustee-challenges-scope-of-bankruptcy-judges-power",
+    "destination": "/category/bankruptcy-creditors-rights",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/congratulations/gary-s-young-joins-scarinci-hollenbeck-as-partner",
+    "destination": "/category/firm-news",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/entertainment-and-sports/photo-editing-crosses-line",
+    "destination": "/category/entertainment-and-sports",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/entertainment-and-sports/marvel-settles-case-kirby-estate",
+    "destination": "/category/entertainment-and-sports",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/tax/irs/severance-payments-must-taxed-supreme-court-rules",
+    "destination": "/category/tax",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/entertainment-and-sports/nbcuniversal-learns-theres-thing-free-laborer",
+    "destination": "/category/entertainment-and-sports",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/entertainment-and-sports/movie-exhibition-giants-put-small-theaters-business",
+    "destination": "/category/entertainment-and-sports",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/tax/taxes/business-tax/tax-avoidance-subcommittee-blasts-caterpillar-inc",
+    "destination": "/category/tax",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/tax/taxes/business-tax/gop-budget-pass-house",
+    "destination": "/category/tax",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/entertainment-and-sports/nfl-agent-leave-school-early-draft",
+    "destination": "/category/entertainment-and-sports",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/entertainment-and-sports/the-right-agent-for-you",
+    "destination": "/category/entertainment-and-sports",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/entertainment-and-sports/preparing-for-the-day-of-the-draft",
+    "destination": "/category/entertainment-and-sports",
+    "statusCode": 301
+  },
+  {
+    "source": "/offices/ocean-nj/",
+    "destination": "/location/red-bank",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/entertainment-and-sports/not-picked-for-the-nfl-draft",
+    "destination": "/category/entertainment-and-sports",
+    "statusCode": 301
+  },
+  {
+    "source": "/just-in/scarinci-hollenbeck-officially-launches-business-blog",
+    "destination": "/category/firm-news",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/tax/trusts-estates/jointly-held-powers-of-appointment-and-distribution-committees-has-anything-changed",
+    "destination": "/category/tax",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/tax/trusts-estates/estate-tax-change-to-affect-nearly-15-million-households",
+    "destination": "/category/tax",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/tax/taxes/business-tax/may-an-unexecuted-will-be-admitted-to-probate",
+    "destination": "/category/tax",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/tax/taxes/business-tax/wall-street-banker-receives-2-million-via-irs-whistleblower-program",
+    "destination": "/category/tax",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/scarinci-hollenbeck-officially-launches-youtube-channel",
+    "destination": "/category/firm-news",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/entertainment-and-sports/should-ncaa-players-be-compensated",
+    "destination": "/category/entertainment-and-sports",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/entertainment-and-sports/court-rules-in-favor-of-youtube-in-copyright-lawsuit",
+    "destination": "/category/entertainment-and-sports",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/entertainment-and-sports/fifa-committee-member-temporarily-suspended",
+    "destination": "/category/entertainment-and-sports",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/entertainment-and-sports/vijay-singh-brings-lawsuit-against-pga-tour",
+    "destination": "/category/entertainment-and-sports",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/entertainment-and-sports/family-of-derek-boogaard-files-wrongful-death-lawsuit-against-nhl",
+    "destination": "/category/entertainment-and-sports",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/entertainment-and-sports/tommy-lee-jones",
+    "destination": "/category/entertainment-and-sports",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/entertainment-and-sports/sports-or-entertainment-success",
+    "destination": "/category/entertainment-and-sports",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/entertainment-and-sports/will-new-rutgers-athletic-director-keep-her-job",
+    "destination": "/category/entertainment-and-sports",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/labor-employment/lady-gaga-breaks-cardinal-rule-of-depositions",
+    "destination": "/category/entertainment-and-sports",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/entertainment-and-sports/paterno-family-to-sue-ncaa",
+    "destination": "/category/entertainment-and-sports",
+    "statusCode": 301
+  },
+  {
+    "source": "/practices/corporate-transactions-and-business-law/",
+    "destination": "/practices/corporate-transactions-business",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/intellectual-property/u-s-supreme-court-rules-against-drug-makers-on-pay-to-delay",
+    "destination": "/category/intellectual-property",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/entertainment-and-sports/athlete-challenges-suspension-over-controversial-tweet",
+    "destination": "/category/entertainment-and-sports",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/entertainment-and-sports/federal-judge-denies-motion-to-dismiss-ncaa-lawsuit",
+    "destination": "/category/entertainment-and-sports",
+    "statusCode": 301
+  },
+  {
+    "source": "/practices/environmental-and-land-use-law/",
+    "destination": "/practices/environmental",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/entertainment-and-sports/badminton-scandal-exposes-the-dark-side-of-sports",
+    "destination": "/category/entertainment-and-sports",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/entertainment-and-sports/modern-family-cast-leverages-success-to-get-new-deal",
+    "destination": "/category/entertainment-and-sports",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/entertainment-and-sports/stabler-is-latest-big-name-to-join-nfl-concussion-lawsuits",
+    "destination": "/category/entertainment-and-sports",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/entertainment-and-sports/will-golden-girl-missy-franklin-pick-college-over-cash",
+    "destination": "/category/entertainment-and-sports",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/entertainment-and-sports/jennifer-lopez-fighting-back-with-her-own-entertainment-lawsuit",
+    "destination": "/category/entertainment-and-sports",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/entertainment-and-sports/federal-appeals-court-rules-cheerleading-is-not-a-sport",
+    "destination": "/category/entertainment-and-sports",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/entertainment-and-sports/kim-kardashian-settles-doppelganger-lawsuit-against-old-navy",
+    "destination": "/category/entertainment-and-sports",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/entertainment-and-sports/new-fcc-rules-on-close-captioning-take-effect-this-month",
+    "destination": "/category/entertainment-and-sports",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/entertainment-and-sports/controversial-anti-islam-film-at-center-of-entertainment-lawsuit",
+    "destination": "/category/entertainment-and-sports",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/entertainment-and-sports/nba-flopping-rules",
+    "destination": "/category/entertainment-and-sports",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/entertainment-and-sports/new-york-islanders-in-brooklyn-state-of-mind",
+    "destination": "/category/entertainment-and-sports",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/entertainment-and-sports/court-ruling-allows-ryan-hart-lawsuit-against-ea-sports-to-proceed",
+    "destination": "/category/entertainment-and-sports",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/entertainment-and-sports/fifty-shades-royalties",
+    "destination": "/category/entertainment-and-sports",
+    "statusCode": 301
+  },
+  {
+    "source": "/practices/sports-and-entertainment/",
+    "destination": "/practices/entertainment-and-media",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/cyber-security/new-jersey-v-tringali",
+    "destination": "/category/litigation",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/cyber-security/new-jersey-v-tringali/",
+    "destination": "/category/litigation",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/william-r-samuels",
+    "destination": "/attorneys",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/william-r-samuels/",
+    "destination": "/attorneys",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-events/strtupboost-investor-night-nov-29",
+    "destination": "/category/firm-events",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/congratulations/2018-new-york-super-lawyers",
+    "destination": "/category/firm-news",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-events/the-basics-on-intellectual-property-webinar",
+    "destination": "/category/firm-events",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/international-trademark-association-new-members",
+    "destination": "/category/firm-news",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/congratulations/inc-com-nycs-top-ip-attorneys",
+    "destination": "/category/firm-news",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/bill-samuels-nysba-secretary-elect",
+    "destination": "/category/firm-news",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-events/ip-attorney-nysba-panel",
+    "destination": "/category/firm-events",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-events/new-york-state-bar-associations-intellectual-property-fall-meeting",
+    "destination": "/category/firm-events",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/congratulations/nyc-intellectual-property-attorneys",
+    "destination": "/category/firm-news",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/best-trademark-attorney-nyc",
+    "destination": "/category/firm-news",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/john-c-laurence",
+    "destination": "/attorneys",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/john-c-laurence/",
+    "destination": "/attorneys",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/entertainment-and-sports/assumption-of-risk",
+    "destination": "/category/entertainment-and-media",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/entertainment-and-sports/why-would-an-nfls-antitrust-exemption-matter",
+    "destination": "/category/entertainment-and-media",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/business-law/bankruptcy-creditors-rights/bankruptcy-courts-express-concerns-over-furloughed-employees",
+    "destination": "/category/bankruptcy-creditors-rights",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/entertainment-and-sports/nfl-agents-and-endorsement-deals",
+    "destination": "/category/entertainment-and-media",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/entertainment-and-sports/can-celebrities-prove-defamation",
+    "destination": "/category/entertainment-and-media",
+    "statusCode": 301
+  },
+  {
+    "source": "/women-in-sh",
+    "destination": "/women-lead",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/john-j-d-burke-esq",
+    "destination": "/attorneys/john-j-d-burke",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorney/john-j-d-burke-esq",
+    "destination": "/attorney/john-j-d-burke",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/john-burke",
+    "destination": "/attorney/john-j-d-burke",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorney/john-burke",
+    "destination": "/attorney/john-j-d-burke",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/joseph-m-manak-esq",
+    "destination": "/attorneys/joseph-m-manak",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorney/joseph-m-manak-esq",
+    "destination": "/attorney/joseph-m-manak",
+    "statusCode": 301
+  },
+  {
+    "source": "/covid-19-education-alert/njdoe-graduation-ceremony-guidelines",
+    "destination": "/law-firm-insights/business-law/securities-law/new-rules-facilitate-intrastate-regional-securities-offerings",
+    "statusCode": 301
+  },
+  {
+    "source": "/contact-attorney",
+    "destination": "/contact",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-practices",
+    "destination": "/practices",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/intellectual-property/patents/supreme-court-decision-on-genetic-patents-shifts-biotech-ip-landscape",
+    "destination": "/law-firm-insights/intellectual-property/patents/genetic-patents-shifts-biotech-ip-landscape",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/five-year-tax-abatement",
+    "destination": "/law-firm-insights/five-year-tax-abatement",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/types-of-intellectual-property",
+    "destination": "/law-firm-insights/types-of-intellectual-property",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/2018-attorney-promotions",
+    "destination": "/firm-news/2018-attorney-promotions",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/welcome-2019-summer-law-associates",
+    "destination": "/firm-news/welcome-2019-summer-law-associates",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/sanctity-of-attorney-client-privilege-preserved",
+    "destination": "/firm-news/sanctity-of-attorney-client-privilege-preserved",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/scarinci-hollenbeck-heads-development-team-of-50-million-warehouse-facility-in-area-of-port-newark",
+    "destination": "/firm-news/scarinci-hollenbeck-heads-development-team-of-50-million-warehouse-facility-in-area-of-port-newark",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/scarinci-hollenbeck-welcomes-charles-yuen-to-firm",
+    "destination": "/firm-news/scarinci-hollenbeck-welcomes-charles-yuen-to-firm",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/defamation-applies-bill-cosby-scandal",
+    "destination": "/law-firm-insights/defamation-applies-bill-cosby-scandal",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/nj-deputy-attorney-general-joins-sh",
+    "destination": "/firm-news/nj-deputy-attorney-general-joins-sh",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/ashley-brinn-red-bank-office",
+    "destination": "/firm-news/ashley-brinn-red-bank-office",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/red-bank-law-firm-attorney-promotion",
+    "destination": "/firm-news/red-bank-law-firm-attorney-promotion",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/scarinci-hollenbeck-announces-new-office",
+    "destination": "/firm-news/nyc-real-estate-attorney-joins-firm",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/attorney-joins-ip-group-in-time-for-namm",
+    "destination": "/firm-news/welcome-2019-summer-law-associates",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/nyc-real-estate-attorney-joins-firm",
+    "destination": "/firm-news/welcome-2019-summer-law-associates",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/long-term-tax-abatements-in-new-jersey",
+    "destination": "/law-firm-insights/long-term-tax-abatements-in-new-jersey",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/statute-of-limitations-trade-secret-misappropriation",
+    "destination": "/law-firm-insights/business-law/statute-of-limitations-trade-secret-misappropriation",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/working-capital-adjustments-ma",
+    "destination": "/law-firm-insights/business-law/working-capital-adjustments-ma",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/ip-cases-to-watch-2020",
+    "destination": "/law-firm-insights/intellectual-property/ip-cases-to-watch-2020",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/consumer-fraud-act-counterclaim",
+    "destination": "/law-firm-insights/business-law/consumer-fraud-act-counterclaim",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/are-your-business-activities-on-the-cfpbs-radar",
+    "destination": "/law-firm-insights/business-law/are-your-business-activities-on-the-cfpbs-radar",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/bankruptcy-ruling-allows-getty-realty-to-repossess-gpmi-portfolio",
+    "destination": "/law-firm-insights/business-law/bankruptcy-creditors-rights/bankruptcy-ruling-allows-getty-realty-to-repossess-gpmi-portfolio",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/businesses-should-review-arbitration-clauses-in-light-of-recent-nj-supreme-court-decision",
+    "destination": "/law-firm-insights/business-law/clauses-in-light-of-recent-nj-supreme-court-decision",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/compliance-concerns-force-drug-company-to-shift-business-model",
+    "destination": "/law-firm-insights/business-law/compliance-concerns-drug-company",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/daily-fantasy-sports-company-scores-legal-win",
+    "destination": "/law-firm-insights/entertainment-and-sports/fantasy-gambling-laws",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/estate-planning-acronyms-for-the-remainder-of-2012",
+    "destination": "/category/tax",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/patent-attorney-in-nyc-joins-firm",
+    "destination": "/firm-news/patent-attorney-in-nyc-joins-firm",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/ny-securities-offerings-wealthbridge-ipo",
+    "destination": "/firm-news/ny-securities-offerings-wealthbridge-ipo",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/two-new-attorneys-join-scarinci-hollenbeck",
+    "destination": "/firm-news/two-new-attorneys-join-scarinci-hollenbeck",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/krystal-nova-appointed-to-board-of-hcba",
+    "destination": "/firm-news/krystal-nova-appointed-to-board-of-hcba",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/scarinci-hollenbeck-attorney-to-lead-morgan-stanley-roundtable-series",
+    "destination": "/firm-news/scarinci-hollenbeck-attorney-to-lead-morgan-stanley-roundtable-series",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/new-york-commercial-litigation-settlements",
+    "destination": "/law-firm-insights/new-york-commercial-litigation-settlements",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/sh-partner-recertified-as-criminal-trial-attorney",
+    "destination": "/firm-news/sh-partner-recertified-as-criminal-trial-attorney",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/scarinci-hollenbeck-attorney-to-lead-morgan-stanley-roundtable-series",
+    "destination": "/firm-news/scarinci-hollenbeck-attorney-to-lead-morgan-stanley-roundtable-series",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/scarinci-hollenbeck-announces-new-office",
+    "destination": "/firm-news/scarinci-hollenbeck-announces-new-office",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/director-shares-insights-in-law-practice-today",
+    "destination": "/category/client-alert",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/new-california-privacy-law-2020",
+    "destination": "/law-firm-insights/cyber-security/new-california-privacy-law-2020",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/jersey-city-mixed-use-retail-panel-nov-18",
+    "destination": "/firm-events/jersey-city-mixed-use-retail-panel-nov-18",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/client-alert/client-alert-covid-19",
+    "destination": "/client-alert/client-alert-covid-19",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/environmental-attorney-todd-terhune-joins-scarinci-hollenbeck",
+    "destination": "/firm-news/environmental-attorney-todd-terhune-joins-scarinci-hollenbeck",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/ma-attorney-jeff-cassin-featured-small-business-insurance-article",
+    "destination": "/firm-news/ma-attorney-jeff-cassin-featured-small-business-insurance-article",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/new-partner-announcement-donald-m-pepe-joins-scarinci-hollenbeck",
+    "destination": "/firm-news/new-partner-announcement-donald-m-pepe-joins-scarinci-hollenbeck",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/the-official-launch",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/new-jersey-state-league-municipalities-names-john-m-scagnelli-environmental-counsel",
+    "destination": "/firm-news/new-jersey-state-league-municipalities-names-john-m-scagnelli-environmental-counsel",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/meadowlands-legacy-awards-reception",
+    "destination": "/firm-news/meadowlands-legacy-awards-reception",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/nj-appeals-court-rules-insurance-violation-does-not-destroy-law-firms-limited-liability-protection",
+    "destination": "/law-firm-insights/nj-appeals-court-rules-insurance-violation-does-not-destroy-law-firms-limited-liability-protection",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/ma-attorney-jeff-cassin-featured-small-business-insurance-article",
+    "destination": "/quick-news/ma-attorney-jeff-cassin-featured-small-business-insurance-article",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/nyc-ip-attorney-to-speak-on-score-webinar",
+    "destination": "/firm-events/nyc-ip-attorney-to-speak-on-score-webinar",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/mcnamara-93rd-naffs-convention",
+    "destination": "/firm-news/mcnamara-93rd-naffs-convention",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/improving-relationships-increases-business",
+    "destination": "/law-firm-insights/improving-relationships-increases-business",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/guidance-for-reopening-new-jersey-business",
+    "destination": "/law-firm-insights/guidance-for-reopening-new-jersey-business",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/cannabis-business-workshop-green-rush",
+    "destination": "/firm-news/cannabis-business-workshop-green-rush",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/njsba-hot-topics-in-environmental-law",
+    "destination": "/law-firm-insights/njsba-hot-topics-in-environmental-law",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/pending-new-jersey-legislature",
+    "destination": "/firm-news/pending-new-jersey-legislature",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/estate-wins-legal-victory-art",
+    "destination": "/law-firm-insights/tax/trusts-estates/estate-wins-legal-victory-art",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/square-pegs-in-round-holes-the-use-of-series-llcs-outside-of-the-state-of-formation",
+    "destination": "/law-firm-insights/square-pegs-in-round-holes-the-use-of-series-llcs-outside-of-the-state-of-formation",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/katerin-traugh-named-new-executive-director",
+    "destination": "/firm-news/katerin-traugh-named-new-executive-director",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/2020-super-lawyers-list",
+    "destination": "/firm-news/2020-super-lawyers-list",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/costly-business-lawsuits",
+    "destination": "/law-firm-insights/costly-business-lawsuits",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/employers-obligations-military-workers-deploy",
+    "destination": "/law-firm-insights/employers-obligations-military-workers-deploy",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/new-tax-series-on-scarinci-hollenbecks-youtube-channel",
+    "destination": "/law-firm-insights/new-tax-series-on-scarinci-hollenbecks-youtube-channel",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/aca-article-on-compliance",
+    "destination": "/firm-news/aca-article-on-compliance",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/agreement-to-agree-ny",
+    "destination": "/law-firm-insights/agreement-to-agree-ny",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/the-official-launch",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/tips-for-avoiding-the-customer-class-action-trap",
+    "destination": "/law-firm-insights/business-law/securities-law/tips-for-avoiding-the-customer-class-action-trap",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/benefiting-municipalities-operators",
+    "destination": "/firm-news/benefiting-municipalities-operators",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/sec-risk-texting-advising",
+    "destination": "/law-firm-insights/sec-risk-texting-advising",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/roshan-d-shah-commendation-by-new-jersey-attorney-generals-office",
+    "destination": "/firm-news/roshan-d-shah-commendation-by-new-jersey-attorney-generals-office",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/bp-supreme-court",
+    "destination": "/law-firm-insights/environmental/bp-supreme-court",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/todd-terhune-remedial-action-permit-application",
+    "destination": "/just-in/todd-terhune-remedial-action-permit-application",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/employer-provided-cell-phones-are-not-income-to-employees",
+    "destination": "/law-firm-insights/employer-provided-cell-phones-are-not-income-to-employees",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/frank-l-brunetti-addresses-the-united-nations",
+    "destination": "/firm-news/frank-l-brunetti-addresses-the-united-nations",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/media-law-group-achieves-significant-victory-2",
+    "destination": "/firm-news/media-law-group-achieves-significant-victory-2",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/emerging-neighborhoods-panel",
+    "destination": "/firm-events/emerging-neighborhoods-panel",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/courts-in-crisis-njsba-panel",
+    "destination": "/firm-events/courts-in-crisis-njsba-panel",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/eliminating-income-taxes-benefits",
+    "destination": "/law-firm-insights/eliminating-income-taxes-benefits",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/lorem-simply-dummy-text-the-industry-2",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/pre-employment-credit-checks-nyc",
+    "destination": "/law-firm-insights/pre-employment-credit-checks-nyc",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/facebook-ipo-claims-to-be-decided-in-new-york",
+    "destination": "/law-firm-insights/facebook-ipo-claims-to-be-decided-in-new-york",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/trademark-registration-business",
+    "destination": "/law-firm-insights/trademark-registration-business",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/state-law-does-matter-part-1",
+    "destination": "/law-firm-insights/state-law-does-matter-part-1",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/4-steps-successful-estate-planning",
+    "destination": "/law-firm-insights/4-steps-successful-estate-planning",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/adobe-facing-class-action-over-data-breach",
+    "destination": "/law-firm-insights/adobe-facing-class-action-over-data-breach",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/pinnacle-airlines-bankruptcy-reorganization-hinges-on-pilot-contracts",
+    "destination": "/law-firm-insights/pinnacle-airlines-bankruptcy-reorganization-hinges-on-pilot-contracts",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/training-employees-insider-trading",
+    "destination": "/law-firm-insights/training-employees-insider-trading",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/amendments-to-ny-wage-theft-law-head-to-governors-desk",
+    "destination": "/law-firm-insights/amendments-to-ny-wage-theft-law-head-to-governors-desk",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/3-last-minute-tax-tips-business-owners",
+    "destination": "/law-firm-insights/3-last-minute-tax-tips-business-owners",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/uspto-fast-track-appeals-pilot-program",
+    "destination": "/law-firm-insights/uspto-fast-track-appeals-pilot-program",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/post-covid-19-special-education-disputes",
+    "destination": "/law-firm-insights/post-covid-19-special-education-disputes",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/what-is-cryptojacking",
+    "destination": "/law-firm-insights/what-is-cryptojacking",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/u-s-supreme-court-to-address-pregnancy-discrimination",
+    "destination": "/law-firm-insights/u-s-supreme-court-to-address-pregnancy-discrimination",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/is-telecommuting-good-for-your-new-jersey-business",
+    "destination": "/law-firm-insights/is-telecommuting-good-for-your-new-jersey-business",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/new-york-estate-tax-refund-to-gay-spouses",
+    "destination": "/law-firm-insights/new-york-estate-tax-refund-to-gay-spouses",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/new-jersey-lawsuit-highlights-seriousness-of-gender-discrimination-allegations",
+    "destination": "/law-firm-insights/new-jersey-lawsuit-highlights-seriousness-of-gender-discrimination-allegations",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/can-or-should-your-business-try-to-match-yahoos-new-maternity-leave-policy",
+    "destination": "/law-firm-insights/can-or-should-your-business-try-to-match-yahoos-new-maternity-leave-policy",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/do-expert-witnesses-need-a-soul",
+    "destination": "/law-firm-insights/do-expert-witnesses-need-a-soul",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/filenes-basements-running-of-the-brides-up-for-sale-after-new-jersey-business-closes",
+    "destination": "/law-firm-insights/filenes-basements-running-of-the-brides-up-for-sale-after-new-jersey-business-closes",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/hostess-brands-to-shut-its-doors",
+    "destination": "/law-firm-insights/business-law/bankruptcy-creditors-rights/hostess-brands-to-shut-its-doors",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/sba-report-reveals-small-business-lending-trends",
+    "destination": "/law-firm-insights/sba-report-reveals-small-business-lending-trends",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/beware-when-dealing-with-bankrupt",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/legal-updates/beware-when-dealing-with-bankrupt",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/avoiding-the-most-common-missteps-retiring-business-owners-make",
+    "destination": "/law-firm-insights/avoiding-the-most-common-missteps-retiring-business-owners-make",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/nj-supreme-court-to-decide-extent-of-cepa-whistleblower-protections",
+    "destination": "/law-firm-insights/nj-supreme-court-to-decide-extent-of-cepa-whistleblower-protections",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/nj-senate-advancing-environmental-justice-bills",
+    "destination": "/law-firm-insights/nj-senate-advancing-environmental-justice-bills",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/facc-elects-new-board-member",
+    "destination": "/firm-events/facc-october-business-rendez-vous-2019",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/sec-clarifies-whistleblower-provisions",
+    "destination": "/law-firm-insights/sec-clarifies-whistleblower-provisions",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/new-jersey-senate-passes-two-gun-control-bills",
+    "destination": "/law-firm-insights/new-jersey-senate-passes-two-gun-control-bills",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/arguments-on-attorney-client-privilege",
+    "destination": "/firm-news/legal-updates/arguments-on-attorney-client-privilege",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/new-jersey-adopts-a-new-remedy-for-resolving-conflicts-among-members-of-llcs",
+    "destination": "/law-firm-insights/new-jersey-adopts-a-new-remedy-for-resolving-conflicts-among-members-of-llcs",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/irs-affirms-rule-on-reimbursements-and-wages",
+    "destination": "/law-firm-insights/irs-affirms-rule-on-reimbursements-and-wages",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/banks-urged-to-implicate-employees-on-criminal-charges",
+    "destination": "/law-firm-insights/banks-urged-to-implicate-employees-on-criminal-charges",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/new-jersey-appeals-court-invalidates-key-dep-contamination-regulation",
+    "destination": "/law-firm-insights/new-jersey-appeals-court-invalidates-key-dep-contamination-regulation",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/eu-trademark-reform-nine-changes",
+    "destination": "/quick-news/eu-trademark-reform-nine-changes",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/foreclosing-an-assigned-mortgage-2",
+    "destination": "/law-firm-insights/foreclosing-an-assigned-mortgage-2",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/is-your-business-negotiating-a-commercial-lease-this-year-avoid-these-traps-for-the-unwary",
+    "destination": "/law-firm-insights/is-your-business-negotiating-a-commercial-lease-this-year-avoid-these-traps-for-the-unwary",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/new-jersey-metal-bat-lawsuit-ends-in-14-million-settlement",
+    "destination": "/quick-news/new-jersey-metal-bat-lawsuit-ends-in-14-million-settlement",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/doj-enters-new-jerseys-sports-betting-battle",
+    "destination": "/law-firm-insights/doj-enters-new-jerseys-sports-betting-battle",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/public-law-a-3969-s-2392",
+    "destination": "/covid-19-education-alert/public-law-a-3969-s-2392",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/american-airlines-pilots-reject-final-offer-court-battle-imminent",
+    "destination": "/law-firm-insights/american-airlines-pilots-reject-final-offer-court-battle-imminent",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/do-new-gtlds-pose-a-threat-to-your-business-steps-you-can-take-now",
+    "destination": "/law-firm-insights/do-new-gtlds-pose-a-threat-to-your-business-steps-you-can-take-now",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/nj-environmental-justice-initiative-leads-to-six-new-suits",
+    "destination": "/law-firm-insights/nj-environmental-justice-initiative-leads-to-six-new-suits",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/does-corporate-citizenship-pay-dividends",
+    "destination": "/law-firm-insights/does-corporate-citizenship-pay-dividends",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/domicile-is-like-inertia",
+    "destination": "/legal-updates/domicile-is-like-inertia",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/dominos-ada-website-accessibility",
+    "destination": "/law-firm-insights/business-law/dominos-ada-website-accessibility",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/ftc-consumer-harm-workshop",
+    "destination": "/law-firm-insights/ftc-consumer-harm-workshop",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/cybersecurity-information-sharing-act-business-guidance",
+    "destination": "/law-firm-insights/cybersecurity-information-sharing-act-business-guidance",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/irs-scrutiny-over-spending-continues",
+    "destination": "/law-firm-insights/irs-scrutiny-over-spending-continues",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/eu-investigating-tax-breaks-us-multinationals",
+    "destination": "/law-firm-insights/eu-investigating-tax-breaks-us-multinationals",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/shareholders-love-corporate-break",
+    "destination": "/law-firm-insights/shareholders-love-corporate-break",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/nyc-ban-salary-history",
+    "destination": "/law-firm-insights/nyc-ban-salary-history",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/new-jersey-worker-misclassification-enforcement",
+    "destination": "/law-firm-insights/new-jersey-worker-misclassification-enforcement",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/monmouth-mall-redesign-approval",
+    "destination": "/firm-news/monmouth-mall-redesign-approval",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/rescap-creditors-go-after-ally-financial",
+    "destination": "/law-firm-insights/rescap-creditors-go-after-ally-financial",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/ice-workplace-investigations",
+    "destination": "/law-firm-insights/ice-workplace-investigations",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/employers-covid-19-wage-and-hour-faqs",
+    "destination": "/law-firm-insights/employers-covid-19-wage-and-hour-faqs",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/unsolicited-faxes-tcpa-violation",
+    "destination": "/law-firm-insights/unsolicited-faxes-tcpa-violation",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/uspto-examination-guide-impacts-cbd-products",
+    "destination": "/law-firm-insights/uspto-examination-guide-impacts-cbd-products",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/new-jersey-businesses-may-face-texting-ban-under-new-legislation",
+    "destination": "/law-firm-insights/new-jersey-businesses-may-face-texting-ban-under-new-legislation",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/landlords-bankruptcy",
+    "destination": "/law-firm-insights/salus-capital-partners-pushes-for-radioshack-to-switch-to-chapter-7-bankruptcy",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/top-10-employer-questions-covid-19",
+    "destination": "/law-firm-insights/top-10-employer-questions-covid-19",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/hope-r-blackburn-joins-firm",
+    "destination": "/firm-news/hope-r-blackburn-joins-firm",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/shield-law-extended-to-bloggers-in-new-jersey",
+    "destination": "/law-firm-insights/shield-law-extended-to-bloggers-in-new-jersey",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/cybersecurity-practices-pass-sec-exam",
+    "destination": "/law-firm-insights/cybersecurity-practices-pass-sec-exam",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/meadowlands-usa-oct-2018",
+    "destination": "/firm-news/meadowlands-usa-oct-2018",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/ncaa-basketball-program",
+    "destination": "/law-firm-insights/ncaa-basketball-program",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/streamline-regulations-for-nj-small-businesses",
+    "destination": "/law-firm-insights/streamline-regulations-for-nj-small-businesses",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/brannj-attorney-general-counsel",
+    "destination": "/firm-news/brannj-attorney-general-counsel",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/no-limits-for-njlad-lawsuits",
+    "destination": "/law-firm-insights/no-limits-for-njlad-lawsuits",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/irs-opportunity-zone-regulations",
+    "destination": "/law-firm-insights/irs-opportunity-zone-regulations",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/municipal-bankruptcies-pit-pensioners-bondholders-against-each-other",
+    "destination": "/law-firm-insights/municipal-bankruptcies-pit-pensioners-bondholders-against-each-other",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/reverse-mortgages-the-good-the-bad-and-the-ugly",
+    "destination": "/law-firm-insights/reverse-mortgages-the-good-the-bad-and-the-ugly",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/two-important-votes-detroit",
+    "destination": "/law-firm-insights/two-important-votes-detroit",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/irs-seek-bank-records-from-ubs",
+    "destination": "/law-firm-insights/irs-seek-bank-records-from-ubs",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/changes-sec-whistleblower-program",
+    "destination": "/law-firm-insights/changes-sec-whistleblower-program",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/business-bankruptcy-filings-hike",
+    "destination": "/law-firm-insights/business-bankruptcy-filings-hike",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/technology-spurs-new-type-of-lease-agreement",
+    "destination": "/law-firm-insights/technology-spurs-new-type-of-lease-agreement",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/sec-moves-away-from-neither-admit-nor-deny-settlement-policy-whats-next",
+    "destination": "/law-firm-insights/sec-moves-away-from-neither-admit-nor-deny-settlement-policy-whats-next",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/actors-unions-merger",
+    "destination": "/law-firm-insights/actors-unions-merger",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/new-jersey-paid-sick-leave",
+    "destination": "/law-firm-insights/new-jersey-paid-sick-leave",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/regulation-a-amendment",
+    "destination": "/law-firm-insights/regulation-a-amendment",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/jefferson-county-alabama-and-creditors-reach-deal-to-exit-municipal-bankruptcy",
+    "destination": "/law-firm-insights/jefferson-county-alabama-and-creditors-reach-deal-to-exit-municipal-bankruptcy",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/is-the-sale-price-of-a-residence-determinative-of-its-true-value-for-purposes-of-real-property-tax-assessments",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/sec-proposes-long-awaited-crowdfunding-rules",
+    "destination": "/law-firm-insights/sec-proposes-long-awaited-crowdfunding-rules",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/simfa-releases-cybersecurity-principles-for-regulating-financial-industry",
+    "destination": "/law-firm-insights/simfa-releases-cybersecurity-principles-for-regulating-financial-industry",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/mums-the-word-the-power-of-silence-in-contract-negotiation",
+    "destination": "/law-firm-insights/mums-the-word-the-power-of-silence-in-contract-negotiation",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/are-sales-taxes-non-dischargeable-in-bankruptcy",
+    "destination": "/firm-news/are-sales-taxes-non-dischargeable-in-bankruptcy",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/legality-of-workplace-recording-policy",
+    "destination": "/law-firm-insights/legality-of-workplace-recording-policy",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/consumer-privacy-and-security-risks",
+    "destination": "/law-firm-insights/consumer-privacy-and-security-risks",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/friday-the-13th-legal-battle",
+    "destination": "/law-firm-insights/friday-the-13th-legal-battle",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/nj-defines-corporate-business-nexus-guidelines",
+    "destination": "/law-firm-insights/nj-defines-corporate-business-nexus-guidelines",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/update-sheridan-lawsuit-ends-in-mistrial",
+    "destination": "/law-firm-insights/update-sheridan-lawsuit-ends-in-mistrial",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/nj-oversight-over-soil-and-fill-recyclers",
+    "destination": "/law-firm-insights/nj-oversight-over-soil-and-fill-recyclers",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/lowering-incentives-whistleblowers",
+    "destination": "/law-firm-insights/lowering-incentives-whistleblowers",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/the-allen-act-takes-no-prisoners",
+    "destination": "/law-firm-insights/the-allen-act-takes-no-prisoners",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/federal-contractors-must-provide-paid-sick-leave",
+    "destination": "/law-firm-insights/federal-contractors-must-provide-paid-sick-leave",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/public-trust-doctrine-nj",
+    "destination": "/law-firm-insights/public-trust-doctrine-nj",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/scarinci-hollenbeck-welcomes-fernando-m-pinguelo-to-firm",
+    "destination": "/firm-news/scarinci-hollenbeck-welcomes-fernando-m-pinguelo-to-firm",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/can-you-enforce-an-arbitration-clause-on-the-other-side-just-before-trial",
+    "destination": "/law-firm-insights/can-you-enforce-an-arbitration-clause-on-the-other-side-just-before-trial",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/millennium-health-llc-preparing-to-file-for-chapter-11-bankruptcy-protection",
+    "destination": "/law-firm-insights/millennium-health-llc-preparing-to-file-for-chapter-11-bankruptcy-protection",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/scarinci-hollenbeck-expands-growing-new-york-office",
+    "destination": "/law-firm-insights/scarinci-hollenbeck-expands-growing-new-york-office",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/employers-need-to-know-about-ruling-on-lgbt-rights",
+    "destination": "/law-firm-insights/employers-need-to-know-about-ruling-on-lgbt-rights",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/important-appellate-division-victory",
+    "destination": "/firm-news/important-appellate-division-victory",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/one-in-two-out-rule-impact",
+    "destination": "/law-firm-insights/one-in-two-out-rule-impact",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/nyc-protections-fast-food-workers",
+    "destination": "/law-firm-insights/nyc-protections-fast-food-workers",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/ma-law-group-closes-two-deals",
+    "destination": "/firm-news/ma-law-group-closes-two-deals",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/sampling-music-legal-issues-artists",
+    "destination": "/law-firm-insights/sampling-music-legal-issues-artists",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/protect-your-trademark",
+    "destination": "/law-firm-insights/protect-your-trademark",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/trademarks-intellectual-property-concerns",
+    "destination": "/law-firm-insights/trademarks-intellectual-property-concerns",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/tax-law-business-entity-selection",
+    "destination": "/law-firm-insights/tax-law-business-entity-selection",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/ny-nj-allowing-remote-notarizations",
+    "destination": "/law-firm-insights/ny-nj-allowing-remote-notarizations",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/scotus-clean-water-rule",
+    "destination": "/law-firm-insights/scotus-clean-water-rule",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/cle-seminar-theodore-roosevelt-progressive-era",
+    "destination": "/firm-events/cle-seminar-theodore-roosevelt-progressive-era",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/proposed-overhaul-of-nepa-regulations-impact-nj-developers",
+    "destination": "/law-firm-insights/proposed-overhaul-of-nepa-regulations-impact-nj-developers",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/olympic-skiers-leaked-photos",
+    "destination": "/quick-news/olympic-skiers-leaked-photos",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/can-tech-giants-spur-surveillance-reform-or-are-they-part-of-the-problem",
+    "destination": "/law-firm-insights/can-tech-giants-spur-surveillance-reform-or-are-they-part-of-the-problem",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/restitution-payments-are-tax-deductible-restitution-payments-made-tax-deductible",
+    "destination": "/law-firm-insights/restitution-payments-are-tax-deductible-restitution-payments-made-tax-deductible",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/eeoc-cracking-down-on-use-of-criminal-background-checks",
+    "destination": "/law-firm-insights/eeoc-cracking-down-on-use-of-criminal-background-checks",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/talented-special-education-lawyer",
+    "destination": "/firm-news/talented-special-education-lawyer",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/daniel-mckillop-cannabis-law-trailblazers-2018",
+    "destination": "/firm-news/daniel-mckillop-cannabis-law-trailblazers-2018",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/ron-reisner-how-to-win-a-trial-lecture",
+    "destination": "/firm-events/ron-reisner-how-to-win-a-trial-lecture",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/reopening-plan-accommodate-employees-with-underlying-medical-conditions",
+    "destination": "/law-firm-insights/reopening-plan-accommodate-employees-with-underlying-medical-conditions",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/proposed-overhaul-of-nepa-regulations-impact-nj-developers",
+    "destination": "/law-firm-insights/proposed-overhaul-of-nepa-regulations-impact-nj-developers",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/can-tech-giants-spur-surveillance-reform-or-are-they-part-of-the-problem",
+    "destination": "/law-firm-insights/can-tech-giants-spur-surveillance-reform-or-are-they-part-of-the-problem",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/restitution-payments-are-tax-deductible-restitution-payments-made-tax-deductible",
+    "destination": "/law-firm-insights/restitution-payments-are-tax-deductible-restitution-payments-made-tax-deductible",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/eeoc-cracking-down-on-use-of-criminal-background-checks",
+    "destination": "/law-firm-insights/eeoc-cracking-down-on-use-of-criminal-background-checks",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/battle-of-the-bulge-yummie-tummie-sues-spanx-for-patent-infringement",
+    "destination": "/law-firm-insights/battle-of-the-bulge-yummie-tummie-sues-spanx-for-patent-infringement",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/should-your-new-jersey-start-up-ask-friends-and-family-for-funding",
+    "destination": "/law-firm-insights/should-your-new-jersey-start-up-ask-friends-and-family-for-funding",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/the-marketplace-fairness-act-does-it-foreshadow-a-value-added-tax",
+    "destination": "/law-firm-insights/the-marketplace-fairness-act-does-it-foreshadow-a-value-added-tax",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/nj-coronavirus-information-package",
+    "destination": "/law-firm-insights/nj-coronavirus-information-package",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/fisker-automotive-bankruptcy-case-progressing",
+    "destination": "/law-firm-insights/business-law/bankruptcy-creditors-rights/fisker-automotive-bankruptcy-case-progressing",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/uspto-covid-19-prioritized-examination-pilot-program",
+    "destination": "/law-firm-insights/uspto-covid-19-prioritized-examination-pilot-program",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/bank-of-america-says-countrywide-bankruptcy-remains-an-option",
+    "destination": "/law-firm-insights/bank-of-america-says-countrywide-bankruptcy-remains-an-option",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/form-d-filed-over-the-web",
+    "destination": "/law-firm-insights/form-d-filed-over-the-web",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/annual-shareholders-meetings-covid-19",
+    "destination": "/law-firm-insights/annual-shareholders-meetings-covid-19",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/new-jersey-based-savient-pharmaceuticals-seeks-chapter-11-bankruptcy",
+    "destination": "/law-firm-insights/new-jersey-based-savient-pharmaceuticals-seeks-chapter-11-bankruptcy",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/a-new-federal-trade-secrets-law-for-the-new-year",
+    "destination": "/law-firm-insights/a-new-federal-trade-secrets-law-for-the-new-year",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/red-bank-law-office-managing-partner",
+    "destination": "/firm-news/red-bank-law-office-managing-partner",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/nj-commercial-landlords-snow-removal",
+    "destination": "/law-firm-insights/nj-commercial-landlords-snow-removal",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/combat-offshore-tax-avoidance",
+    "destination": "/law-firm-insights/combat-offshore-tax-avoidance",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/cloud-act-microsoft",
+    "destination": "/law-firm-insights/cloud-act-microsoft",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/gentlemens-club-loses-nyc-wage-lawsuit",
+    "destination": "/law-firm-insights/gentlemens-club-loses-nyc-wage-lawsuit",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/new-nj-hemp-law",
+    "destination": "/law-firm-insights/new-nj-hemp-law",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/epa-pfas-in-drinking-water",
+    "destination": "/law-firm-insights/epa-pfas-in-drinking-water",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/the-problem-with-the-nfl-concussion-settlement",
+    "destination": "/law-firm-insights/the-problem-with-the-nfl-concussion-settlement",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/trademark-rights-in-cuba",
+    "destination": "/law-firm-insights/trademark-rights-in-cuba",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/uspto-hikes-patent-fees",
+    "destination": "/law-firm-insights/uspto-hikes-patent-fees",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/michigan-gov-pledges-funds-to-save-detroit-pensions",
+    "destination": "/law-firm-insights/business-law/bankruptcy-creditors-rights",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/energy-future-holdings-proposes-bankruptcy-plan",
+    "destination": "/law-firm-insights/energy-future-holdings-proposes-bankruptcy-plan",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/the-basics-of-a-consulting-contract",
+    "destination": "/law-firm-insights/the-basics-of-a-consulting-contract",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/differences-between-arbitration-and-mediation",
+    "destination": "/law-firm-insights/differences-between-arbitration-and-mediation",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/ny-nj-allowing-remote-notarizations",
+    "destination": "/law-firm-insights/ny-nj-allowing-remote-notarizations",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/supreme-court-committee-on-criminal-practice-appoints-new-member",
+    "destination": "/firm-news/supreme-court-committee-on-criminal-practice-appoints-new-member",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/can-you-back-up-the-hype-gerber-lawsuit-highlights-legal-risks-of-advertising",
+    "destination": "/law-firm-insights/can-you-back-up-the-hype-gerber-lawsuit-highlights-legal-risks-of-advertising",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/federal-legislation-aims-to-help-small-businesses-in-cannabis-industry",
+    "destination": "/law-firm-insights/federal-legislation-aims-to-help-small-businesses-in-cannabis-industry",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/the-secure-act-of-2019",
+    "destination": "/law-firm-insights/the-secure-act-of-2019",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/enforce-your-trademark-rights",
+    "destination": "/law-firm-insights/enforce-your-trademark-rights",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/mcba-legal-education-committee",
+    "destination": "/firm-news/mcba-legal-education-committee",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/pirate-ship-copyright-infringement-case",
+    "destination": "/law-firm-insights/pirate-ship-copyright-infringement-case",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/sh-win-office-of-administrative-law",
+    "destination": "/firm-news/sh-win-office-of-administrative-law",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/new-jersey-law-firm-expands-labor-employment-group",
+    "destination": "/firm-news/new-jersey-law-firm-expands-labor-employment-group",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/scarinci-hollenbeck-launches-cyber-security-data-protection-practice",
+    "destination": "/firm-news/scarinci-hollenbeck-launches-cyber-security-data-protection-practice",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/nj-supreme-court-rejects-bloggers-shield-law-defense",
+    "destination": "/law-firm-insights/nj-supreme-court-rejects-bloggers-shield-law-defense",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/sec-first-no-action-token-letter",
+    "destination": "/law-firm-insights/sec-first-no-action-token-letter",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/litigation-funding-101",
+    "destination": "/law-firm-insights/litigation-funding-101",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/federal-credit-unions-service-legal-hemp-industry",
+    "destination": "/law-firm-insights/federal-credit-unions-service-legal-hemp-industry",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/dont-threaten-to-bring-criminal-charges",
+    "destination": "/law-firm-insights/dont-threaten-to-bring-criminal-charges",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/new-jersey-opportunity-zone-marketplace",
+    "destination": "/law-firm-insights/new-jersey-opportunity-zone-marketplace",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/cannabis-legalization-nj-voters",
+    "destination": "/law-firm-insights/cannabis-legalization-nj-voters",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/legal-missteps-small-business",
+    "destination": "/law-firm-insights/legal-missteps-small-business",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/can-nj-law-against-discrimination-apply-outside-nj",
+    "destination": "/law-firm-insights/can-nj-law-against-discrimination-apply-outside-nj",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/scarinci-hollenbeck-adds-three-attorneys-tax-practice",
+    "destination": "/firm-news/scarinci-hollenbeck-adds-three-attorneys-tax-practice",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/cannabis-in-new-jersey-2017-review",
+    "destination": "/law-firm-insights/cannabis-in-new-jersey-2017-review",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/amendments-made-to-nyc-human-rights-law",
+    "destination": "/law-firm-insights/amendments-made-to-nyc-human-rights-law",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/ron-reisner-how-to-win-a-trial-lecture",
+    "destination": "/firm-events/ron-reisner-how-to-win-a-trial-lecture",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/law-firm-not-exempt",
+    "destination": "/law-firm-insights/law-firm-not-exempt",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/frances-barto-young-lawyers",
+    "destination": "/firm-news/frances-barto-young-lawyers",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/nyc-basics-of-ip-workshop",
+    "destination": "/firm-events/nyc-basics-of-ip-workshop",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/new-york-decriminalizes-marijuana",
+    "destination": "/law-firm-insights/new-york-decriminalizes-marijuana",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/social-justice-arguments-marijuana-legalization",
+    "destination": "/law-firm-insights/social-justice-arguments-marijuana-legalization",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/pokemon-go-trespassing",
+    "destination": "/law-firm-insights/pokemon-go-trespassing",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/illinois-church-adidas-legal-bills",
+    "destination": "/law-firm-insights/illinois-church-adidas-legal-bills",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/new-jersey-law-firm-receives-smartceo-corporate-culture-award",
+    "destination": "/firm-news/new-jersey-law-firm-receives-smartceo-corporate-culture-award",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/business-publication-tax-law-2014",
+    "destination": "/firm-news/business-publication-tax-law-2014",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/expands-new-jersey-litigation-group",
+    "destination": "/firm-news/expands-new-jersey-litigation-group",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/njicle-madison-hamilton-and-the-constitutional-revolution",
+    "destination": "/firm-news/njicle-madison-hamilton-and-the-constitutional-revolution",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/njlj-2018-mentor-award",
+    "destination": "/firm-news/njlj-2018-mentor-award",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/insolvency-alerts-october-2011",
+    "destination": "/firm-news/insolvency-alerts-october-2011",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/amended-tax-return-attorney-client-privilege",
+    "destination": "/firm-news/amended-tax-return-attorney-client-privilege",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/property-owners-be-careful-what-you-wish-for",
+    "destination": "/law-firm-insights/property-owners-be-careful-what-you-wish-for",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/welcome-2017-summer-associates",
+    "destination": "/firm-news/welcome-2017-summer-associates",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/daniel-mckillop-cannabis-law-trailblazers-2018",
+    "destination": "/firm-news/daniel-mckillop-cannabis-law-trailblazers-2018",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/nj-amends-ban-the-box-law",
+    "destination": "/law-firm-insights/nj-amends-ban-the-box-law",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/protect-business-website-liability",
+    "destination": "/law-firm-insights/protect-business-website-liability",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/trademark-and-copyright-protection",
+    "destination": "/law-firm-insights/trademark-and-copyright-protection",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/what-makes-public-figure",
+    "destination": "/law-firm-insights/what-makes-public-figure",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/sh-assists-cinemark-in-approvals",
+    "destination": "/firm-news/sh-assists-cinemark-in-approvals",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/fair-say-fair-use-complicated",
+    "destination": "/law-firm-insights/fair-say-fair-use-complicated",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/is-legal-red-tape-interfering-with-your-business",
+    "destination": "/law-firm-insights/is-legal-red-tape-interfering-with-your-business",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/paying-for-a-passion-finding-investors-for-your-next-entertainment-endeavor",
+    "destination": "/law-firm-insights/paying-for-a-passion-finding-investors-for-your-next-entertainment-endeavor",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/caruso-certified-as-nfl-agent",
+    "destination": "/firm-news/caruso-certified-as-nfl-agent",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/njsba-forum-2017-program-of-the-year",
+    "destination": "/firm-news/njsba-forum-2017-program-of-the-year",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/what-to-do-while-under-federal-investigation",
+    "destination": "/law-firm-insights/what-to-do-while-under-federal-investigation",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/scotus-foreign-lost-profits-ruling",
+    "destination": "/law-firm-insights/scotus-foreign-lost-profits-ruling",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/service-of-process-via-facebook",
+    "destination": "/law-firm-insights/service-of-process-via-facebook",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/ma-attorney-jeff-cassin-featured-small-business-insurance-article",
+    "destination": "/quick-news/ma-attorney-jeff-cassin-featured-small-business-insurance-article",
+    "statusCode": 301
+  },
+  {
+    "source": "/category/just-in",
+    "destination": "/category/law-firm-insights",
+    "statusCode": 301
+  },
+  {
+    "source": "/category/uncategorized",
+    "destination": "/category/law-firm-insights",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/stockton-bankruptcy-may-prompt-police-force-to-quit-leave-city-unprotected",
+    "destination": "/law-firm-insights/police-force-to-quit-leave-city-unprotected",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/environmental/epa-moving-forward-on-sip-calls-to-prevent-excess-emissions-during-periods-of-startup-shutdown-and-malfunction",
+    "destination": "/law-firm-insights/environmental/epa-moving-forward-on-sip-calls-to-prevent-excess-emissions",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/2018-lgbtq-scholarship-winner",
+    "destination": "/firm-news/2018-lgbtq-scholarship-winner",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/tiffany-counterfeit-ring-lawsuit",
+    "destination": "/law-firm-insights/tiffany-counterfeit-ring-lawsuit",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/public-works-contractors-who-make-mistakes-can-withdraw-their-bid",
+    "destination": "/firm-news/public-works-contractors-who-make-mistakes-can-withdraw-their-bid",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/how-not-to-create-a-contract-via-email",
+    "destination": "/law-firm-insights/how-not-to-create-a-contract-via-email",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/legal-concerns-facing-new-jersey-mobile-app-developers",
+    "destination": "/law-firm-insights/legal-concerns-facing-new-jersey-mobile-app-developers",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/supreme-court-decision-on-genetic-patents-shifts-biotech-ip-landscape",
+    "destination": "/law-firm-insights/intellectual-property/patents/genetic-patents-shifts-biotech-ip-landscape",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/sec-announces-2015-exam-priorities",
+    "destination": "/law-firm-insights/sec-announces-2015-exam-priorities",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/new-jersey-marijuana-bills",
+    "destination": "/law-firm-insights/new-jersey-marijuana-bills",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/shield-act-new-york",
+    "destination": "/law-firm-insights/shield-act-new-york",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/nj-employers-arbitration-agreements",
+    "destination": "/law-firm-insights/nj-employers-arbitration-agreements",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/restrictive-covenants",
+    "destination": "/law-firm-insights/restrictive-covenants",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/uspto-scandalous-trademarks",
+    "destination": "/law-firm-insights/uspto-scandalous-trademarks",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/nyc-employers-human-rights-law",
+    "destination": "/law-firm-insights/nyc-employers-human-rights-law",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/expansion-of-the-nj-medical-marijuana",
+    "destination": "/law-firm-insights/expansion-of-the-nj-medical-marijuana",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/international-patent-damages",
+    "destination": "/law-firm-insights/international-patent-damages",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/starting-a-red-bank-business",
+    "destination": "/law-firm-insights/starting-a-red-bank-business",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/tcja-able-act",
+    "destination": "/law-firm-insights/tcja-able-act",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/plaintiffs-bad-behavior-dooms-nj-employment-lawsuit",
+    "destination": "/law-firm-insights/plaintiffs-bad-behavior-dooms-nj-employment-lawsuit",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/tiffany-counterfeit-ring-lawsuit",
+    "destination": "/law-firm-insights/tiffany-counterfeit-ring-lawsuit",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/waters-of-the-united-states-repeal",
+    "destination": "/law-firm-insights/waters-of-the-united-states-repeal",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/scotus-clean-water-act",
+    "destination": "/law-firm-insights/waters-of-the-united-states-repeal",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/n-j-federal-court-honors-scarinci-hollenbeck",
+    "destination": "/firm-news/congratulations/n-j-federal-court-honors-scarinci-hollenbeck",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/protect-older-investors",
+    "destination": "/law-firm-insights/protect-older-investors",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/new-jersey-approves-6-atcs",
+    "destination": "/law-firm-insights/new-jersey-approves-6-atcs",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/insolvency-alerts-october-2011",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/business-law/year-in-review-top-contract-tips-for-new-york-and-new-jersey-businesses",
+    "destination": "/law-firm-insights/business-law/contract-tips-for-new-york-and-new-jersey-businesses",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/labor-employment/employer-notifications-under-patient-protection-and-affordable-care-act-postponed",
+    "destination": "/law-firm-insights/labor-employment/patient-protection-and-affordable-care-act-postponed",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/commercial-real-estate/real-estate-commercial-leasing/new-jersey-licensed-site-remediation-professionals-lsrps-must-be-hired-for-all-environmental-remediation-work-in-new-jersey",
+    "destination": "/category/commercial-real-estate",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/identifying-sandbox-issues",
+    "destination": "/category/bankruptcy-creditors-rights",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/landlords-rent-at-risk-in-bankruptcy-2/",
+    "destination": "/category/bankruptcy-creditors-rights",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/official-announcement-of-our-tax-trusts-and-estates-blog/ ",
+    "destination": "/category/firm-news",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/business-law/scarinci-hollenbecks-tax-video-series-are-you-overassessed/",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/business-law/client-alert-process-for-remediating-contaminated-sites-in-new-jersey-set-to-change/",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/environmental-land-use/epa-releases-pfas-action-plan%EF%BB%BF",
+    "destination": "/law-firm-insights/environmental-land-use/epa-releases-pfas-action-plan",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/nine-questions-nj-real-estate-investors-are-asking-about-opportunity-zones%EF%BB%BF",
+    "destination": "/law-firm-insights/nine-questions-nj-real-estate-investors",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/nine-questions-nj-real-estate-investors-are-asking-about-opportunity-zones",
+    "destination": "/law-firm-insights/nine-questions-nj-real-estate-investors",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/partners/dennis-c-linken/",
+    "destination": "/attorney/dennis-c-linken/",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/partners/joel-n-kreizman/",
+    "destination": "/attorney/joel-n-kreizman/",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/partners/victor-e-kinon/",
+    "destination": "/attorney/victor-e-kinon/",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/associates/candida-cj-griffin/",
+    "destination": "/attorneys",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/gary-s-young/",
+    "destination": "/attorneys",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/partners/jay-v-surgent/",
+    "destination": "/attorneys",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/partners/donald-m-pepe-2/",
+    "destination": "/attorney/donald-m-pepe",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/partners/peter-r-yarem/",
+    "destination": "/attorney/peter-r-yarem",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/partners/fernando-m-pinguelo/",
+    "destination": "/attorneys",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/partners/joseph-m-donegan/",
+    "destination": "/attorneys",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/partners/kenneth-j-hollenbeck/",
+    "destination": "/attorney/kenneth-j-hollenbeck",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/partners/gary-j-cucchiara/",
+    "destination": "/attorneys",
+    "statusCode": 301
+  },
+  { "source": "/offices/", "destination": "/locations", "statusCode": 301 },
+  {
+    "source": "/attorneys/counsel/joel-n-kreizman/",
+    "destination": "/attorney/joel-n-kreizman",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/partners/john-m-scagnelli/",
+    "destination": "/attorney/john-m-scagnelli",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/fernando-m-pinguelo/",
+    "destination": "/attorneys",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/anthony-r-caruso-esq/",
+    "destination": "/attorneys",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/joseph-m-donegan/",
+    "destination": "/attorneys",
+    "statusCode": 301
+  },
+  {
+    "source": "/location/ocean/",
+    "destination": "/locations",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/james-b-sharp",
+    "destination": "/attorneys",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/fernando-m-pinguelo",
+    "destination": "/attorneys",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/sean-d-dias/",
+    "destination": "/attorneys",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/laura-m-miller",
+    "destination": "/attorneys",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/gary-s-young/",
+    "destination": "/attorneys",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/partners/joel-r-glucksman/",
+    "destination": "/attorneys",
+    "statusCode": 301
+  },
+  {
+    "source": "/administration/peter-s-moeller/",
+    "destination": "/administration",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/david-einhorn",
+    "destination": "/attorneys/david-a-einhorn",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/liana-m-nobile",
+    "destination": "/attorneys",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/jeffrey-k-cassin",
+    "destination": "/attorneys",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorney/jeffrey-k-cassin",
+    "destination": "/attorneys",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/sean-d-dias",
+    "destination": "/attorneys",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/scott-v-heck",
+    "destination": "/attorneys",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/nicholas-j-pellegrino",
+    "destination": "/attorneys",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/stephanie-d-edelstein",
+    "destination": "/attorneys",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/kristin-g-garris/",
+    "destination": "/attorneys",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/kristin-g-garris",
+    "destination": "/attorneys",
+    "statusCode": 301
+  },
+  {
+    "source": "/david-a-einhorn",
+    "destination": "/attorney/david-a-einhorn",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorney/jessica-a-faustin",
+    "destination": "/attorneys",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/partners/mark-k-follender",
+    "destination": "/attorneys",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/partners/fred-d-zemel",
+    "destination": "/attorney/fred-d-zemel",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/partners/robert-a-marsico",
+    "destination": "/attorney/robert-a-marsico",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/partners/robert-a-marsico",
+    "destination": "/attorney/robert-a-marsico",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/counsel/william-c-sullivan-jr/",
+    "destination": "/attorney/william-c-sullivan-jr",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/partners/charles-a-yuen/",
+    "destination": "/attorney/charles-a-yuen",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/counsel/dan-brecher/",
+    "destination": "/attorney/dan-brecher",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/counsel/michael-a-cifelli/",
+    "destination": "/attorney/michael-a-cifelli",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/partners/robert-e-levy/",
+    "destination": "/attorney/robert-e-levy",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/partners/christine-m-vanek/",
+    "destination": "/attorney/christine-m-vanek",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/counsel/kenneth-c-oh/",
+    "destination": "/attorney/kenneth-c-oh",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/partners/patrick-j-mcnamara/",
+    "destination": "/attorney/patrick-j-mcnamara",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/partners/ramon-e-rivera",
+    "destination": "/attorney/ramon-e-rivera",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/intra-band-agreement-411",
+    "destination": "/law-firm-insights/entertainment-and-sports/intra-band-agreement-411",
+    "statusCode": 301
+  },
+  {
+    "source": "/careers/education-school-law-attorney-job/",
+    "destination": "/careers",
+    "statusCode": 301
+  },
+  {
+    "source": "/2019-happy-holidays/",
+    "destination": "/",
+    "statusCode": 301
+  },
+  { "source": "/archive", "destination": "/", "statusCode": 301 },
+  { "source": "/front-page/", "destination": "/", "statusCode": 301 },
+  { "source": "/uncategorized", "destination": "/", "statusCode": 301 },
+  { "source": "/uncategorized", "destination": "/", "statusCode": 301 },
+  {
+    "source": "/client-alert/do-a-ceos-marital-woes-belong-in-the-boardroom",
+    "destination": "/law-firm-insights/do-a-ceos-marital-woes-belong-in-the-boardroom",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/so-you-want-to-start-a-new-york-food-truck-business",
+    "destination": "/law-firm-insights/so-you-want-to-start-a-new-york-food-truck-business",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/creditors-angered-trump-entertainments-bankruptcy-plan",
+    "destination": "/law-firm-insights/creditors-angered-trump-entertainments-bankruptcy-plan",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/eat-more-kale-trademark",
+    "destination": "/law-firm-insights/eat-more-kale-trademark",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/nj-alternative-dispute-resolution-statute",
+    "destination": "/law-firm-insights/nj-alternative-dispute-resolution-statute",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/fbar-deadline",
+    "destination": "/law-firm-insights/fbar-deadline",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/legalize-recreational-marijuana",
+    "destination": "/law-firm-insights/legalize-recreational-marijuana",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/sidewalk-liability-of-homeowners-association",
+    "destination": "/law-firm-insights/sidewalk-liability-of-homeowners-association",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/federal-trade-commission-drug-patent",
+    "destination": "/law-firm-insights/federal-trade-commission-drug-patent",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/irs-announces-significant-tax-exclusion-threshold-changes-for-2016",
+    "destination": "/law-firm-insights/irs-announces-significant-tax-exclusion-threshold-changes-for-2016",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/trump-entertainment-seeks-to-stop-pension-payments",
+    "destination": "/law-firm-insights/trump-entertainment-seeks-to-stop-pension-payments",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/nasty-gal-bankruptcy",
+    "destination": "/law-firm-insights/nasty-gal-bankruptcy",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/federal-ban-the-box-legislation-advancing-the-fair-chance-act",
+    "destination": "/law-firm-insights/federal-ban-the-box-legislation-advancing-the-fair-chance-act",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/baltimore-health-bankruptcy-protection",
+    "destination": "/law-firm-insights/baltimore-health-bankruptcy-protection",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/lower-corporate-taxes",
+    "destination": "/law-firm-insights/lower-corporate-taxes",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/brexit-trademark-concerns",
+    "destination": "/law-firm-insights/brexit-trademark-concerns",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/self-representation-setback",
+    "destination": "/law-firm-insights/self-representation-setback",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/core-elements-of-an-effective-succession-plan",
+    "destination": "/law-firm-insights/core-elements-of-an-effective-succession-plan",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/banana-costume-copyright-lawsuit",
+    "destination": "/law-firm-insights/banana-costume-copyright-lawsuit",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/tax-court-rules-that-taxpayer-aspergers-no-excuse-in-case",
+    "destination": "/law-firm-insights/tax-court-rules-that-taxpayer-aspergers-no-excuse-in-case",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/could-a-bad-case-of-the-flu-fall-under-the-fmla",
+    "destination": "/law-firm-insights/could-a-bad-case-of-the-flu-fall-under-the-fmla",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/american-airlines-388m-bankruptcy-price-tag-approved",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/analysts-skeptical-about-kodaks-future-post-bankruptcy",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/pinguelo-ediscovery",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/non-compete-agreements-new-jersey",
+    "destination": "/law-firm-insights/non-compete-agreements-new-jersey",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/domestic-violence-workplace-policy",
+    "destination": "/law-firm-insights/domestic-violence-workplace-policy",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/trademark-a-hashtag",
+    "destination": "/law-firm-insights/trademark-a-hashtag",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/performance-reviews-becoming-passe",
+    "destination": "/law-firm-insights/performance-reviews-becoming-passe",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/daiichi-chuo-kisen-kaisha-files-for-chapter-11-bankruptcy-protection",
+    "destination": "/law-firm-insights/daiichi-chuo-kisen-kaisha-files-for-chapter-11-bankruptcy-protection",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/unicap-rules",
+    "destination": "/law-firm-insights/unicap-rules",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/cannabis-industry-banking-update",
+    "destination": "/law-firm-insights/cannabis-industry-banking-update",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/lauryn-hills-deadline-to-pay-back-taxes-nears",
+    "destination": "/law-firm-insights/lauryn-hills-deadline-to-pay-back-taxes-nears",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/sports-entertainment-lawyer-anthony-r-caruso-appears-on-cbs-fox-and-pix-tv",
+    "destination": "/firm-news/sports-entertainment-lawyer-anthony-r-caruso-appears-on-cbs-fox-and-pix-tv",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/inversions-election-hot-button-issue",
+    "destination": "/law-firm-insights/inversions-election-hot-button-issue",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/understanding-the-new-jersey-tax-appeal-process",
+    "destination": "/law-firm-insights/understanding-the-new-jersey-tax-appeal-process",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/newark-mayor-at-odds-with-new-jersey-devils-over-community-center",
+    "destination": "/law-firm-insights/newark-mayor-at-odds-with-new-jersey-devils-over-community-center",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/bank-account-been-hacked",
+    "destination": "/law-firm-insights/bank-account-been-hacked",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/how-far-do-morals-clauses-extend-in-endorsement-deals",
+    "destination": "/law-firm-insights/how-far-do-morals-clauses-extend-in-endorsement-deals",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/harvard-study-says-friendship-and-business-dont-mix-tips-for-picking-the-perfect-new-jersey-business-partner",
+    "destination": "/law-firm-insights/harvard-study-says-friendship-and-business-dont-mix-tips-for-picking-the-perfect-new-jersey-business-partner",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/owner-of-cosmetics-manufacturer-pleads-guilty-to-tax-evasion",
+    "destination": "/law-firm-insights/owner-of-cosmetics-manufacturer-pleads-guilty-to-tax-evasion",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/radioshacks-trustee-fights-for-customer-privacy",
+    "destination": "/law-firm-insights/radioshacks-trustee-fights-for-customer-privacy",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/the-nfl-rules-of-relocation",
+    "destination": "/law-firm-insights/the-nfl-rules-of-relocation",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/de-minimis-exemption-under-new-jerseys-industrial-site-recovery-act",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/doomsday-prophet-found-guilty-of-tax-evasion",
+    "destination": "/law-firm-insights/doomsday-prophet-found-guilty-of-tax-evasion",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/new-debt-collection-regulations",
+    "destination": "/law-firm-insights/new-debt-collection-regulations",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/suit-against-model-gigi-hadid-pits-right-of-publicity-against-copyright-protection",
+    "destination": "/law-firm-insights/suit-against-model-gigi-hadid-pits-right-of-publicity-against-copyright-protection",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/executing-a-non-compete",
+    "destination": "/law-firm-insights/executing-a-non-compete",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/prepare-for-tax-season",
+    "destination": "/law-firm-insights/prepare-for-tax-season",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/trademark-band-name",
+    "destination": "/law-firm-insights/trademark-band-name",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/nj-appeals-court-continued-employment-created-arbitration-consent",
+    "destination": "/law-firm-insights/nj-appeals-court-continued-employment-created-arbitration-consent",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/mcnamee-steroids-trial",
+    "destination": "/law-firm-insights/mcnamee-steroids-trial",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/lularoe-sales-tax-lawsuit",
+    "destination": "/law-firm-insights/lularoe-sales-tax-lawsuit",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/businesses-can-learn-ftcs-2015-annual-highlights-report",
+    "destination": "/category/business-law",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/new-jersey-renewable-energy-bills",
+    "destination": "/firm-news/businesses-can-learn-ftcs-2015-annual-highlights-report",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/trademark-incontestable",
+    "destination": "/law-firm-insights/trademark-incontestable",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/questions-compliance-failure",
+    "destination": "/law-firm-insights/questions-compliance-failure",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/cyber-lawyer-fernando-pinguelo-earns-cipp-accreditation",
+    "destination": "/firm-news/cyber-lawyer-fernando-pinguelo-earns-cipp-accreditation",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/2232-amendments-mean",
+    "destination": "/firm-news/2232-amendments-mean",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/bankruptcy-court-to-liquidate-shady-wine-storage-business",
+    "destination": "/law-firm-insights/bankruptcy-court-to-liquidate-shady-wine-storage-business",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/buying-stock-tied-to-athletes",
+    "destination": "/law-firm-insights/buying-stock-tied-to-athletes",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/business-defeats-worker-misclassification-suit",
+    "destination": "/law-firm-insights/business-defeats-worker-misclassification-suit",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/is-tax-uncertainty-prompting-more-small-businesses-to-sell-in-2012",
+    "destination": "/law-firm-insights/is-tax-uncertainty-prompting-more-small-businesses-to-sell-in-2012",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/nj-businesses-salt-cap-for-nj-taxes",
+    "destination": "/law-firm-insights/nj-businesses-salt-cap-for-nj-taxes",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/copyright-conflict",
+    "destination": "/law-firm-insights/copyright-conflict",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/foreclosing-an-assigned-mortgage-2",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/opportunity-zone-program-nj",
+    "destination": "/law-firm-insights/opportunity-zone-program-nj",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/nj-exclusive-use-clauses",
+    "destination": "/law-firm-insights/nj-exclusive-use-clauses",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/nj-nix-highlands-act",
+    "destination": "/law-firm-insights/nj-nix-highlands-act",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/new-jersey-insurance-companies",
+    "destination": "/law-firm-insights/new-jersey-insurance-companies",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/stop-sexual-harassment-in-nyc-act",
+    "destination": "/law-firm-insights/stop-sexual-harassment-in-nyc-act",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/nj-paid-sick-leave-regulations",
+    "destination": "/law-firm-insights/nj-paid-sick-leave-regulations",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/court-deems-llc-members-insiders-for-bankruptcy-preference",
+    "destination": "/law-firm-insights/court-deems-llc-members-insiders-for-bankruptcy-preference",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/ico-not-a-security",
+    "destination": "/law-firm-insights/ico-not-a-security/",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/new-jersey-microbreweries-bill",
+    "destination": "/law-firm-insights/new-jersey-microbreweries-bill",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/trademark-registration-online",
+    "destination": "/law-firm-insights/trademark-registration-online",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/finders-keepers-could-your-financial-account-escheat-to-the-state",
+    "destination": "/law-firm-insights/finders-keepers-could-your-financial-account-escheat-to-the-state",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/many-companies-paying-ceos-uncle-sam",
+    "destination": "/law-firm-insights/many-companies-paying-ceos-uncle-sam",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/friend-foe-march-madness-office-pools",
+    "destination": "/law-firm-insights/friend-foe-march-madness-office-pools",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/robin-williams-estate-plan-leaves-heirs-good-hands",
+    "destination": "/law-firm-insights/robin-williams-estate-plan-leaves-heirs-good-hands",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/5-cybersecurity-lessons",
+    "destination": "/law-firm-insights/5-cybersecurity-lessons",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/second-circuit-rules-computer-code-cant-be-stolen-under-federal-criminal-law",
+    "destination": "/category/intellectual-property",
+    "statusCode": 301
+  },
+  {
+    "source": "/category/law-firm-insights/cannabis-law/page/2'",
+    "destination": "/category/cannabis-law",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/international-law-update-china",
+    "destination": "/law-firm-insights/business-law/international-law-2/international-law-update-china",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/nj-environmental-settlement-funds",
+    "destination": "/law-firm-insights/environmental/nj-environmental-settlement-funds",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/last-call-guarantor-bankruptcy",
+    "destination": "/law-firm-insights/business-law/bankruptcy-creditors-rights/chapter-11/last-call-guarantor-bankruptcy",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/qualified-opportunity-zone-property",
+    "destination": "/law-firm-insights/business-law/qualified-opportunity-zone-property",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/nj-foreclosure-mediation-agreement",
+    "destination": "/law-firm-insights/commercial-real-estate/nj-foreclosure-mediation-agreement",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/sec-top-priorities-2019",
+    "destination": "/law-firm-insights/business-law/sec-top-priorities-2019",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/pyrotechnic-guitar-performance-411",
+    "destination": "/law-firm-insights/entertainment-and-sports/pyrotechnic-guitar-performance-411",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/new-estate-planning-regulations",
+    "destination": "/law-firm-insights/tax/new-estate-planning-regulations",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/nj-medical-marijuana-prices",
+    "destination": "/law-firm-insights/cannabis-law/nj-medical-marijuana-prices",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/yahoo-settlement-cyber-enforcement",
+    "destination": "/law-firm-insights/cyber-security/yahoo-settlement-cyber-enforcement",
+    "statusCode": 301
+  },
+  {
+    "source": "/sports/nj-fantasy-sports-bill",
+    "destination": "/law-firm-insights/entertainment-and-sports/nj-fantasy-sports-bill",
+    "statusCode": 301
+  },
+  {
+    "source": "/location/jersey-city",
+    "destination": "/locations",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/foreclosing-an-assigned-mortgage-2/",
+    "destination": "/category/bankruptcy-creditors-rights",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/business-law/are-new-rules-for-gift-cards-on-the-horizon/",
+    "destination": "/category/business-law",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/entertainment-and-sports/ncaa-changes-transfer-waiver-guidelines",
+    "destination": "/category/entertainment-and-sports",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/environmental/new-jersey-appeals-court-clarifies-methodology-for-valuing-contaminated-property /category/environmental",
+    "destination": "/category/environmental",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/entertainment-and-sports/new-jerseynew-york-sports-and-entertainment-lawyer-anthony-caruso-to-appear-on-radio-america",
+    "destination": "/category/entertainment-and-sports",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/environmental-land-use/environmental-rights-nj/.get_permalink(%2025798%20).",
+    "destination": "/law-firm-insights/environmental-land-use/environmental-rights-nj",
+    "statusCode": 301
+  },
+  {
+    "source": "/practices/bankruptcy-and-creditors...",
+    "destination": "/practices/bankruptcy-and-creditors-rights",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/intellectual-property/laches-defense-eliminated/.get_permalink(%2021065%20).",
+    "destination": "/law-firm-insights/intellectual-property/laches-defense-eliminated",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/entertainment-and-sports/sports-agent-laws-controversy/.get_permalink(%202824%20).",
+    "destination": "/law-firm-insights/entertainment-and-sports/sports-agent-laws-controversy",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/cannabis-law/nj-marijuana-reclassification/.get_permalink(%2022024%20).",
+    "destination": "/law-firm-insights/cannabis-law/nj-marijuana-reclassification",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/cannabis-law/marijuana-bill-impact-nj/.get_permalink(%20%20).",
+    "destination": "/law-firm-insights/cannabis-law/marijuana-bill-impact-nj",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/j-kreizman-labcorp-victory/.get_permalink(%2024665%20).",
+    "destination": "/firm-news/j-kreizman-labcorp-victory",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/dan-brecher-oral-contract-breach/.get_permalink(%203849%20).",
+    "destination": "/firm-news/dan-brecher-oral-contract-breach",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/[slug]",
+    "destination": "/attorneys",
+    "statusCode": 301
+  },
+  {
+    "source": "/location/washington-d-c",
+    "destination": "/location/washington-dc",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/business-law/private-transfers-stock/amp/Section%204(a)(7)%20of%20the%20Securities%20Act/Section%204(a)(7)%20of%20the%20Securities%20Act",
+    "destination": "/law-firm-insights/business-law/private-transfers-stock",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/brent-giles-davis",
+    "destination": "/attorneys",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/monica-e-de-los-rios",
+    "destination": "/attorneys",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/jasmine-b-simmons",
+    "destination": "/attorneys",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/hope-r-blackburn",
+    "destination": "/attorneys",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/eugene-lieberstein",
+    "destination": "/attorneys",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/samantha-m-monteleone",
+    "destination": "/attorneys",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/matthew-j-donohue",
+    "destination": "/attorneys",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/business-law/private-transfers-stock/amp/Section%204(a)(7)%20of%20the%20Securities%20Act/Section%204(a)(7)%20of%20the%20Securities%20Act",
+    "destination": "/law-firm-insights/business-law/private-transfers-stock",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/shana-t-don",
+    "destination": "/attorneys",
+    "statusCode": 301
+  },
+  {
+    "source": "/category/environmental-land-use",
+    "destination": "/category/environmental",
+    "statusCode": 301
+  },
+  {
+    "source": "/category/law-firm-insights/law-firm-marketing",
+    "destination": "/category/law-firm-insights",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/ivan-tukhtin-esq",
+    "destination": "/attorneys/ivan-tukhtin",
+    "statusCode": 301
+  },
+  {
+    "source": "/category/firm-news/legal-updates/page/2",
+    "destination": "/category/firm-news/legal-updates",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/labor-employment/%EF%BB%BFny-dol-recently-issued-proposed-employee-scheduling-regulations",
+    "destination": "/category/labor-employment",
+    "statusCode": 301
+  },
+  {
+    "source": "/category/firm-news/congratulations/page/3",
+    "destination": "/category/firm-news/congratulations",
+    "statusCode": 301
+  },
+  {
+    "source": "/category/law-firm-insights/labor-employment/page/5",
+    "destination": "/category/law-firm-insights/labor-employment",
+    "statusCode": 301
+  },
+  {
+    "source": "/category/firm-news/featured/page/11",
+    "destination": "/category/firm-news/featured",
+    "statusCode": 301
+  },
+  {
+    "source": "/category/firm-news/congratulations/page/4",
+    "destination": "/category/firm-news/congratulations",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/Prol.htm",
+    "destination": "/attorneys",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/best-trademark-attorney-nyc/.get_permalink(%2022475%20).",
+    "destination": "/category/firm-news",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/selling-company-stock/.get_permalink(%2024246%20).",
+    "destination": "/law-firm-insights/selling-company-stock",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/'anthony-r-caruso",
+    "destination": "/attorneys",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/rivera-2010-newark-reception/.get_permalink(%203684%20).",
+    "destination": "/firm-news/rivera-2010-newark-reception",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-events/advanced-analytics-in-litigation/.get_permalink(%2016896%20).",
+    "destination": "/firm-events/advanced-analytics-in-litigation",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/best-trademark-attorney-nyc/.get_permalink(%2022477%20).",
+    "destination": "/category/firm-news",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/increased-secaucus-parking/.get_permalink(%2021534%20).",
+    "destination": "/firm-news/increased-secaucus-parking",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/cyber-law-attorney-wpix-11/.get_permalink(%202289%20).",
+    "destination": "/firm-news/cyber-law-attorney-wpix-11",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/march-madness-trademark/.get_permalink(%2010123%20).",
+    "destination": "/firm-news/march-madness-trademark",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/surgent-elected-partner/.get_permalink(%203967%20).",
+    "destination": "/firm-news/surgent-elected-partner",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/'jill-a-michael",
+    "destination": "/attorneys/jill-a-michael",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/'donald-scarinci",
+    "destination": "/attorneys/donald-scarinci",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/'patrick-j-mcnamara",
+    "destination": "/attorneys/patrick-j-mcnamara",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/'harvey-r-poe",
+    "destination": "/attorneys/harvey-r-poe",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/'joel-n-kreizman",
+    "destination": "/attorneys/joel-n-kreizman",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/'donald-m-pepe",
+    "destination": "/attorneys/donald-m-pepe",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorney/kristin-g-garris",
+    "destination": "/attorneys",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/'david-l-blank",
+    "destination": "/attorneys/david-l-blank",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/'robert-a-marsico",
+    "destination": "/attorneys/robert-a-marsico",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/'john-g-geppert",
+    "destination": "/attorneys/john-g-geppert",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/'caitlin-p-dettmer",
+    "destination": "/attorneys/caitlin-p-dettmer",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/'dennis-c-linken",
+    "destination": "/attorneys/dennis-c-linken",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/'william-r-samuels",
+    "destination": "/attorneys/william-r-samuels",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/'charles-h-friedrich",
+    "destination": "/attorneys/charles-h-friedrich",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/'shane-i-birnbaum",
+    "destination": "/attorneys/shane-i-birnbaum",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/'jeffrey-k-cassin",
+    "destination": "/attorneys/jeffrey-k-cassin",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/'james-f-mcdonough",
+    "destination": "/attorneys/james-f-mcdonough",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/'roshan-d-shah",
+    "destination": "/attorneys/roshan-d-shah",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/'kenneth-c-oh",
+    "destination": "/attorneys/kenneth-c-oh",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/Friedman.html",
+    "destination": "/attorney/harold-friedman",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/'michael-jimenez",
+    "destination": "/attorney/michael-a-jimenez",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/'william-sullivan",
+    "destination": "/attorney/william-c-sullivan-jr",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/'jason-mushnick",
+    "destination": "/attorneys",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/william-sullivan",
+    "destination": "/attorney/william-c-sullivan-jr",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/'frank-l-brunetti",
+    "destination": "/attorneys/frank-l-brunetti",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/business-law/ip-protection-grades/.get_permalink(%2021824%20).",
+    "destination": "/law-firm-insights/business-law/ip-protection-grades",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/entertainment-and-sports/how-far-do-morals-clauses-extend-in-endorsement-deals/.get_permalink(%201229%20).",
+    "destination": "/law-firm-insights/entertainment-and-sports/how-far-do-morals-clauses-extend-in-endorsement-deals",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/congratulations/sh-partner-ecdc-hall-of-fame/.get_permalink(%20%20).",
+    "destination": "/firm-news/congratulations/sh-partner-ecdc-hall-of-fame",
+    "statusCode": 301
+  },
+  {
+    "source": "/law-firm-insights/business-law/ico-not-a-security/.get_permalink(%2026517%20).",
+    "destination": "/law-firm-insights/business-law/ico-not-a-security",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/congratulations/bergen-lawyers-2017/.get_permalink(%20%20).",
+    "destination": "/firm-news/congratulations/bergen-lawyers-2017",
+    "statusCode": 301
+  },
+  {
+    "source": "/category/law-firm-insights/labor-employment/page/7",
+    "destination": "/category/law-firm-insights/labor-employment",
+    "statusCode": 301
+  },
+  {
+    "source": "/category/law-firm-insights/labor-employment/page/3",
+    "destination": "/category/law-firm-insights/labor-employment",
+    "statusCode": 301
+  },
+  {
+    "source": "/category/labor-employment/page/3",
+    "destination": "/category/labor-employment",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert-covid-19",
+    "destination": "/covid-19-crisis-management-unit",
+    "statusCode": 301
+  },
+  {
+    "source": "/Red%20Bank",
+    "destination": "/location/red-bank",
+    "statusCode": 301
+  },
+  {
+    "source": "/location/New%20York",
+    "destination": "/location/new-york",
+    "statusCode": 301
+  },
+  {
+    "source": "/attorneys/joel%2Br%2Bglucksman",
+    "destination": "/attorney/joel-r-glucksman",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/employee-vs-independent-contractor-can-you-tell-the-difference",
+    "destination": "/law-firm-insights/labor-employment/employee-vs-independent-contractor-can-you-tell-the-difference",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/fbi-issues-warning-regarding-business-e-mail-compromise",
+    "destination": "/law-firm-insights/cyber-security/fbi-issues-warning-regarding-business-e-mail-compromise",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/osha-fines-to-increase",
+    "destination": "/law-firm-insights/business-law/osha-fines-to-increase",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/tips-to-reduce-your-holiday-liability-risk",
+    "destination": "/law-firm-insights/business-law/tips-to-reduce-your-holiday-liability-risk",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/top-ten-things-you-need-to-know-about-the-advisers-act",
+    "destination": "/law-firm-insights/business-law/top-ten-things-you-need-to-know-about-the-advisers-act",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/power-wholesaler-seeks-chapter-11-bankruptcy-protection",
+    "destination": "/law-firm-insights/power-wholesaler-seeks-chapter-11-bankruptcy-protection",
+    "statusCode": 301
+  },
+  {
+    "source": "/category/firm-insights",
+    "destination": "/category/law-firm-insights",
+    "statusCode": 301
+  },
+  {
+    "source": "/category/uncategorized/page/6",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/tips-to-reduce-your-holiday-liability-risk",
+    "destination": "/law-firm-insights/business-law/tips-to-reduce-your-holiday-liability-risk",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/employee-vs-independent-contractor-can-you-tell-the-difference",
+    "destination": "/law-firm-insights/employee-vs-independent-contractor-can-you-tell-the-difference",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/osha-fines-to-increase",
+    "destination": "/law-firm-insights/osha-fines-to-increase",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/top-ten-things-you-need-to-know-about-the-advisers-act",
+    "destination": "/law-firm-insights/top-ten-things-you-need-to-know-about-the-advisers-act",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/does-your-new-jersey-business-need-a-chief-culture-officer",
+    "destination": "/law-firm-insights/does-your-new-jersey-business-need-a-chief-culture-officer",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/ninth-circuit-dmca-takedown-notice-requires-fair-use-analysis",
+    "destination": "/law-firm-insights/ninth-circuit-dmca-takedown-notice-requires-fair-use-analysis",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/co-founder-feud-written-partnership-agreement",
+    "destination": "/law-firm-insights/co-founder-feud-written-partnership-agreement",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/eeoc-issues-new-guidance-on-religious-dress-and-grooming-in-the-workplace",
+    "destination": "/law-firm-insights/eeoc-issues-new-guidance-on-religious-dress-and-grooming-in-the-workplace",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/disclosure-disclosure-disclosure",
+    "destination": "/law-firm-insights/business-law/securities-law/disclosure-disclosure-disclosure",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/company-owned-bill-gates-investment-fund-files-chapter-11",
+    "destination": "/law-firm-insights/business-law/bankruptcy-creditors-rights/company-owned-bill-gates-investment-fund-files-chapter-11",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/family-and-medical-leave-act-same-sex-spouses",
+    "destination": "/law-firm-insights/family-and-medical-leave-act-same-sex-spouses",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/international-ip-index",
+    "destination": "/law-firm-insights/intellectual-property/trademarks/international-ip-index",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/employee-misclassification-issues-uber",
+    "destination": "/law-firm-insights/employee-misclassification-issues-uber",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/starting-a-new-jersey-business-why-your-name-matters",
+    "destination": "/law-firm-insights/starting-a-new-jersey-business-why-your-name-matters",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/a123-systems-files-for-bankruptcy",
+    "destination": "/law-firm-insights/business-law/bankruptcy-creditors-rights/a123-systems-files-for-bankruptcy",
+    "statusCode": 301
+  },
+  {
+    "source": "/uncategorized/official-announcement-of-our-tax-trusts-and-estates-blog",
+    "destination": "/category/firm-news/",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/power-wholesaler-seeks-chapter-11-bankruptcy-protection",
+    "destination": "/law-firm-insights/business-law/bankruptcy-creditors-rights/power-wholesaler-seeks-chapter-11-bankruptcy-protection",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/ebola-catching-attention-of-business-and-legal-community",
+    "destination": "/law-firm-insights/ebola-catching-attention-of-business-and-legal-community",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/quiksilver-files-for-chapter-11-bankruptcy-protection",
+    "destination": "/law-firm-insights/quiksilver-files-for-chapter-11-bankruptcy-protection",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/space-laws-the-next-legal-frontier",
+    "destination": "/law-firm-insights/space-laws-the-next-legal-frontier",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/the-new-jersey-family-school-partnership-act-would-provide-leave-for-parents-to-attend-school-activities/the-new-jersey-family-school-partnership-act-would-provide-leave-for-parents-to-attend-school-activities",
+    "destination": "/law-firm-insights/labor-employment/leave-to-attend-school-activities",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/the-new-jersey-family-school-partnership-act-would-provide-leave-for-parents-to-attend-school-activities",
+    "destination": "/law-firm-insights/labor-employment/leave-to-attend-school-activities",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/fbi-issues-warning-regarding-business-e-mail-compromise",
+    "destination": "/law-firm-insights/fbi-issues-warning-regarding-business-e-mail-compromise",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/global-shipping-company-tmt-seeks-bankruptcy-protection-under-chapter-11",
+    "destination": "/law-firm-insights/global-shipping-company-tmt-seeks-bankruptcy-protection-under-chapter-11",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/big-change-for-new-yorks-non-profit-laws",
+    "destination": "/law-firm-insights/big-change-for-new-yorks-non-profit-laws",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/copyright-victory-gives-google-library-project-the-green-light",
+    "destination": "/law-firm-insights/copyright-victory-gives-google-library-project-the-green-light",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/study-reveals-the-impact-of-whistle-blowers",
+    "destination": "/law-firm-insights/study-reveals-the-impact-of-whistle-blowers",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/combatting-transgender-discrimination-in-workplace",
+    "destination": "/law-firm-insights/combatting-transgender-discrimination-in-workplace",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/uber-suit-highlights-risk-of-pre-employment-background-checks",
+    "destination": "/law-firm-insights/uber-suit-highlights-risk-of-pre-employment-background-checks",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/employee-theft-in-the-workplace",
+    "destination": "/law-firm-insights/employee-theft-in-the-workplace",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/nj-supreme-court-rules-hospitals-internal-error-report-is-privileged-under-patient-safety-act",
+    "destination": "/law-firm-insights/nj-supreme-court-rules-hospitals-internal-error-report-is-privileged-under-patient-safety-act",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/chinas-winsway-enterprises-files-chapter-15-bankruptcy-protection",
+    "destination": "/law-firm-insights/business-law/bankruptcy-creditors-rights/chinas-winsway-enterprises-files-chapter-15-bankruptcy-protection",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/updated-overtime-rules",
+    "destination": "/law-firm-insights/labor-employment/updated-overtime-rules",
+    "statusCode": 301
+  },
+  {
+    "source": "firm-news/uncategorized/study-reveals-the-impact-of-whistle-blowers",
+    "destination": "/law-firm-insights/business-law/securities-law/study-reveals-the-impact-of-whistle-blowers",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/overstock-seeks-sec-approval-of-digital-securities",
+    "destination": "/law-firm-insights/business-law/securities-law/overstock-seeks-sec-approval-of-digital-securities",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/global-shipping-company-tmt-seeks-bankruptcy-protection-under-chapter-11",
+    "destination": "/law-firm-insights/global-shipping-company-tmt-seeks-bankruptcy-protection-under-chapter-11",
+    "statusCode": 301
+  },
+  { "source": "/uncategorized", "destination": "/", "statusCode": 301 },
+  {
+    "source": "/news/uncategorized/jackson-hologram-spurs-patent-suit",
+    "destination": "/category/firm-news",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/selling-your-business-tips-for-surviving-due-diligence/amp",
+    "destination": "/law-firm-insights/business-law/selling-your-business-tips-for-surviving-due-diligence",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/uncategorized/entertainment-law-faq-should-i-copyright-my-song",
+    "destination": "/law-firm-insights/entertainment-and-sports/entertainment-law-faq-should-i-copyright-my-song",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/trid-new-mortgage-disclosure-rules-take-effect",
+    "destination": "/law-firm-insights/trid-new-mortgage-disclosure-rules-take-effect",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/uncategorized/photo-editing-crosses-line",
+    "destination": "/category/copyright",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/uncategorized/could-your-cyber-insurance-policy-unexpectedly-let-you-down",
+    "destination": "/law-firm-insights/cyber-security/could-your-cyber-insurance-policy-unexpectedly-let-you-down",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/uncategorized/how-does-a-literary-option-purchase-agreement-work",
+    "destination": "/law-firm-insights/how-does-a-literary-option-purchase-agreement-work",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/uncategorized/affordable-care-act-ruling/amp",
+    "destination": "/law-firm-insights/affordable-care-act-ruling",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/new-york-bankruptcy-court-faces-budget-constraints",
+    "destination": "/law-firm-insights/new-york-bankruptcy-court-faces-budget-constraints",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/lorem-ipsum-available-but-theses-majority",
+    "destination": "/category/law-firm-insights",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/uncategorized/njdep-decision-on-isra-dqe-exemption",
+    "destination": "/firm-news/njdep-decision-on-isra-dqe-exemption",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/what-can-businesses-learn-from-deflategate",
+    "destination": "/law-firm-insights/what-can-businesses-learn-from-deflategate",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/beaver-convicted-of-tax-evasion/amp",
+    "destination": "/law-firm-insights/beaver-convicted-of-tax-evasion",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/china-levies-record-fine-on-glaxosmithkline",
+    "destination": "/law-firm-insights/china-levies-record-fine-on-glaxosmithkline",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/hello-world-2-2",
+    "destination": "/",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/does-the-accredited-investor-definition-need-a-makeover",
+    "destination": "/law-firm-insights/does-the-accredited-investor-definition-need-a-makeover",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/uncategorized/money-behind-the-movie",
+    "destination": "/law-firm-insights/money-behind-the-movie",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/uncategorized/protect-personal-information",
+    "destination": "/law-firm-insights/protect-personal-information",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/prominent-massachusetts-real-estate-developer-files-for-bankruptcy",
+    "destination": "/law-firm-insights/prominent-massachusetts-real-estate-developer-files-for-bankruptcy",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/deal-or-no-deal-winners-and-losers-result-from-the-deadlock-of-the-super-committee",
+    "destination": "/law-firm-insights/deal-or-no-deal-winners-and-losers-result-from-the-deadlock-of-the-super-committee",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/insolvency-alerts-august-2012",
+    "destination": "/law-firm-insights/insolvency-alerts-august-2012",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/employee-breaks-nj",
+    "destination": "/law-firm-insights/employee-breaks-nj",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/three-steps-to-becoming-a-sports-arena-food-vendor",
+    "destination": "/law-firm-insights/three-steps-to-becoming-a-sports-arena-food-vendor",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/nj-appeals-court-sides-with-hospital-in-suit-over-doctor-discipline",
+    "destination": "/law-firm-insights/nj-appeals-court-sides-with-hospital-in-suit-over-doctor-discipline",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/cfpb-jumps-cybersecurity-bandwagon",
+    "destination": "/law-firm-insights/cfpb-jumps-cybersecurity-bandwagon",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/eeoc-by-the-numbers-latest-statistics-reveal-enforcement-trends",
+    "destination": "/law-firm-insights/eeoc-by-the-numbers-latest-statistics-reveal-enforcement-trends",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/defining-false-advertising",
+    "destination": "/law-firm-insights/defining-false-advertising",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/leaflet-ban-may-be-unconstitutional",
+    "destination": "/law-firm-insights/leaflet-ban-may-be-unconstitutional",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/dmca-notice-and-takedown-processes",
+    "destination": "/law-firm-insights/dmca-notice-and-takedown-processes",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/sec-blows-the-whistle-on-confidentiality-agreements-are-you-next",
+    "destination": "/law-firm-insights/sec-blows-the-whistle-on-confidentiality-agreements-are-you-next",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/green-v-brennan",
+    "destination": "/law-firm-insights/green-v-brennan",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/nj-bill-proposed-to-address-employers-actions-during-state-of-emergency",
+    "destination": "/law-firm-insights/nj-bill-proposed-to-address-employers-actions-during-state-of-emergency",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/new-law-protects-new-jersey-businesses-from-bad-electronic-transfers",
+    "destination": "/law-firm-insights/new-law-protects-new-jersey-businesses-from-bad-electronic-transfers",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/nj-appeals-court-real-estate-disclosure-by-agent-required-for-tragic-elevator-accident",
+    "destination": "/law-firm-insights/nj-appeals-court-real-estate-disclosure-by-agent-required-for-tragic-elevator-accident",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/supreme-court-decisions-are-a-mixed-bag-for-business-cases",
+    "destination": "/law-firm-insights/supreme-court-decisions-are-a-mixed-bag-for-business-cases",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/personal-injury-lawsuit-throws-a-curveball-at-new-jersey-youth-baseball-player",
+    "destination": "/law-firm-insights/personal-injury-lawsuit-throws-a-curveball-at-new-jersey-youth-baseball-player",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/njdol-publishes-ban-the-box-regulations",
+    "destination": "/law-firm-insights/njdol-publishes-ban-the-box-regulations",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/merger-and-acquisition-litigation-trends",
+    "destination": "/law-firm-insights/merger-and-acquisition-litigation-trends",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/nj-supreme-court-rules-fitness-centers-cant-disclaim-all-personal-injury-liability",
+    "destination": "/law-firm-insights/nj-supreme-court-rules-fitness-centers-cant-disclaim-all-personal-injury-liability",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/sbarro-file-bankruptcy-protection",
+    "destination": "/law-firm-insights/sbarro-file-bankruptcy-protection",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/voting-leave-are-employers-required-to-grant-employees-time-off-to-cast-their-ballots",
+    "destination": "/law-firm-insights/voting-leave-are-employers-required-to-grant-employees-time-off-to-cast-their-ballots",
+    "statusCode": 301
+  },
+  {
+    "source": "/firm-news/uncategorized/sec-proposes-new-rules-for-investment-advisers",
+    "destination": "/law-firm-insights/sec-proposes-new-rules-for-investment-advisers",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/quick-news/roberts-opinion-upholds-obamacare-rejects-strict-interpretation",
+    "destination": "/quick-news/roberts-opinion-upholds-obamacare-rejects-strict-interpretation",
+    "statusCode": 301
+  },
+  {
+    "source": "/quick-news/why-intellectual-property-considerations-are-always-important/amp",
+    "destination": "/quick-news/why-intellectual-property-considerations-are-always-important",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/parsonage-allowance-issue",
+    "destination": "/law-firm-insights/parsonage-allowance-issue",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/environmental-justice-conference",
+    "destination": "/firm-news/environmental-justice-conference",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/bea-filings-guide",
+    "destination": "/law-firm-insights/bea-filings-guide",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/ncaas-attempt-amateurism",
+    "destination": "/law-firm-insights/ncaas-attempt-amateurism",
+    "statusCode": 301
+  },
+  {
+    "source": "/category/microblog/Congratulations/page/15",
+    "destination": "/category/firm-news/congratulations",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/96th-annual-naffs-convention",
+    "destination": "/firm-news/96th-annual-naffs-convention",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/employee-handbook-updates-2017",
+    "destination": "/law-firm-insights/employee-handbook-updates-2017",
+    "statusCode": 301
+  },
+  {
+    "source": "/news/uncategorized/crowdfunding-benefit-entertainment-industry",
+    "destination": "/law-firm-insights/crowdfunding-benefit-entertainment-industry",
+    "statusCode": 301
+  },
+  {
+    "source": "client-alert/licensed-site-professional-relationships",
+    "destination": "/firm-news/licensed-site-professional-relationships",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/uspto-greenlights-cannabis-trademarks",
+    "destination": "/law-firm-insights/uspto-greenlights-cannabis-trademarks",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/employer-flu-shot-questions",
+    "destination": "/law-firm-insights/employer-flu-shot-questions",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/irs-fbar-penalty-case",
+    "destination": "/law-firm-insights/irs-fbar-penalty-case",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/sec-guidance-board-diversity",
+    "destination": "/law-firm-insights/sec-guidance-board-diversity",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/radioshack-files-for-bankruptcy",
+    "destination": "/law-firm-insights/radioshack-files-for-bankruptcy",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/martha-stewart-infringement-suit",
+    "destination": "/law-firm-insights/martha-stewart-infringement-suit",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/nfl-fair-labor-standards-act",
+    "destination": "/law-firm-insights/nfl-fair-labor-standards-act",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/ny-expands-workplace-harassment-protections",
+    "destination": "/law-firm-insights/ny-expands-workplace-harassment-protections",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/big-ugly-property-tax-rebate",
+    "destination": "/law-firm-insights/big-ugly-property-tax-rebate",
+    "statusCode": 301
+  },
+  {
+    "source": "/f-squared-filing-for-bankruptcy/f-squared",
+    "destination": "/law-firm-insights/business-law/bankruptcy-creditors-rights/f-squared-filing-for-bankruptcy",
+    "statusCode": 301
+  },
+  {
+    "source": "/client-alert/muslim-discrimination-in-the-workplace",
+    "destination": "/law-firm-insights/muslim-discrimination-in-the-workplace",
+    "statusCode": 301
+  }
+]

@@ -1,0 +1,51 @@
+/* .tab {
+  font-size: 1.1rem;
+  line-height: 26px;
+  text-align: center;
+  border: 1px solid #db2200;
+  min-width: 250px;
+  margin-right: 15px;
+  margin-bottom: 10px;
+  color: #db2200 !important;
+  padding-top: 15px !important;
+  padding-bottom: 15px !important;
+  text-decoration: none;
+  transition: All 1s ease;
+  -webkit-transition: All 1s ease;
+  -moz-transition: All 1s ease;
+  border-radius: 5px;
+} */
+
+.tab {
+  text-align: center;
+  border: 1px solid #db2200;
+  /* margin-right: 15px;
+    margin-bottom: 10px; */
+  display: block;
+  padding-left: 1em;
+  padding-right: 1em;
+  color: #db2200 !important;
+  text-decoration: none;
+  transition: All 1s ease;
+  -webkit-transition: All 1s ease;
+  -moz-transition: All 1s ease;
+  border-radius: 3px;
+  text-align: center;
+}
+
+.onMainPracticePage,
+.onSinglePracticePage {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.onSinglePracticePage {
+  min-width: 200px;
+  margin-right: 1em;
+}
+
+.tab:hover {
+  background-color: #db2200;
+  color: #fff !important;
+  border: 0px solid #fff;
+}

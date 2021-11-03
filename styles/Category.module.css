@@ -1,0 +1,6 @@
+.listOverflow {
+  height: 470px;
+  max-width: 100%;
+  overflow: hidden;
+  overflow-y: auto;
+}

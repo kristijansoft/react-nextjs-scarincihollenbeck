@@ -1,0 +1,111 @@
+/** Fonts **/
+@font-face {
+  font-family: 'Proxima Nova Regular';
+  src: url('/fonts/proxima-nova-regular.ttf');
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Proxima Nova Bold';
+  src: url('/fonts/proxima-nova-bold.ttf');
+  font-weight: 700;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Proxima Nova Italic';
+  font-style: italic;
+  font-weight: 500;
+  src: url('/fonts/proxima-nova-italic.ttf');
+  font-display: swap;
+}
+
+body {
+  font-family: 'Proxima Nova Regular' !important;
+  font-weight: 500;
+}
+
+a,
+a:hover {
+  color: inherit;
+}
+
+strong {
+  font-family: 'Proxima Nova Bold';
+}
+
+em {
+  font-family: 'Proxima Nova Italic';
+}
+
+.btn-danger,
+.red--grad {
+  font-weight: bold;
+  background: linear-gradient(360deg, #901918 60%, #dd2624 100%), #333333;
+}
+
+.off-white {
+  background-color: #fcfaff;
+}
+
+.attorney-bio-sidebar-list ul {
+  margin: 0;
+  font-size: 14px;
+  margin-left: -18px;
+}
+
+.attorney-bio-sidebar-list ul > li {
+  line-height: 20px;
+  margin-bottom: 0.5rem;
+}
+
+.mw-45 {
+  width: 55%;
+}
+.mt-6 {
+  margin-top: 6em;
+}
+
+.mx-6 {
+  padding-left: 3.3em;
+  padding-right: 3.3em;
+  margin-top: 4.8em;
+}
+
+.show > .btn-primary.dropdown-toggle {
+  background-color: #fff;
+  color: #000;
+}
+
+.dropdown-toggle::after {
+  display: none;
+}
+.dv-star-rating {
+  margin-top: 0;
+  margin-bottom: 1em;
+}
+
+.dv-star-rating-star i {
+  font-size: 1.3rem;
+}
+
+.navbar-expand .navbar-nav .nav-link {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.modal {
+  overflow: visible !important;
+}
+
+a {
+  color: #3344dd;
+}
+/** Hide captcha in print **/
+@media print {
+  .grecaptcha-badge {
+    display: none !important;
+  }
+}

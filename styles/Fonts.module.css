@@ -1,0 +1,42 @@
+.smallExcerpt {
+  font-size: 13px;
+  line-height: 1.5;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.smallerExcerpt {
+  font-size: 11px;
+}
+
+.ftStyleInherit {
+  font-style: inherit !important;
+}
+
+.ft1rem {
+  font-size: 1rem;
+}
+.ft11rem {
+  font-size: 1.17rem;
+  line-height: 1.8;
+}
+.ft12rem {
+  font-size: 1.2rem;
+}
+.ft13rem {
+  font-size: 1.3rem;
+}
+.ft15rem {
+  font-size: 1.5rem;
+}
+.ft22rem {
+  font-size: 2.2rem;
+}
+
+.ft13remLineHeight15 {
+  font-size: 1.3rem;
+  line-height: 1.5;
+}
+
+.ft118rem {
+  font-size: 1.18rem;
+}

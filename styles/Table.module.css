@@ -1,0 +1,12 @@
+.content {
+  font-size: 1rem;
+  line-height: 1.68;
+}
+
+.content strong {
+  font-size: 1rem;
+}
+
+.content a {
+  color: #000;
+}

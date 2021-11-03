@@ -1,0 +1,54 @@
+.footerHeader {
+  background-color: #444;
+}
+
+.footerBody,
+.footerDetails,
+.footerContainer {
+  background-color: #e9e9e9;
+}
+
+.footerBody {
+  margin-top: 2.8em;
+  margin-bottom: 2em;
+}
+
+.linkTitle {
+  font-size: 1.1rem;
+}
+.linkList {
+  margin-left: -2.4em;
+  list-style-type: none;
+}
+
+.linkList > li {
+  margin-bottom: 6px;
+}
+
+.mainLinks {
+  font-size: 1.2rem;
+  color: #fff;
+}
+.mainLink {
+  color: #fff;
+}
+.mainLink:hover {
+  color: #db2220;
+  font-weight: bold;
+  text-shadow: 0px;
+}
+
+.footerDetails {
+  border-top: 1px solid black;
+  width: 100%;
+  display: block;
+}
+
+.bottomTag {
+  margin-bottom: -10px;
+  margin-top: 1em;
+  display: block;
+}
+.bottomLinks {
+  margin-top: 2em;
+}

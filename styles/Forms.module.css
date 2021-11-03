@@ -1,0 +1,11 @@
+.twoColumns {
+  column-count: 2;
+  column-gap: 0px;
+  margin-left: 10px;
+}
+
+.threeColumns {
+  column-count: 3;
+  column-gap: 40px;
+  margin-left: 25px;
+}

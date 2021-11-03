@@ -1,0 +1,19 @@
+.title {
+  font-size: 1.4rem;
+  margin-left: 1em;
+  margin-bottom: -10px;
+  margin-top: 1em;
+}
+
+.lists ul {
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+  margin-left: -20px;
+  font-size: 1.1rem;
+  line-height: 15px;
+}
+
+.lists li {
+  padding-bottom: 6px;
+  padding-top: 10px;
+}

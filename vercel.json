@@ -1,0 +1,20 @@
+{
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/attorney/david-a-einhorn",
+      "destination": "/passing-attorney-david-a-einhorn",
+      "statusCode": 301
+    },
+    {
+      "source": "/attorney/harvey-r-poe",
+      "destination": "/passing-attorney-harvey-r-poe",
+      "statusCode": 301
+    },
+    {
+      "source": "/firm-news/new-jersey-supreme-court-re-certifies-robert-e-levy",
+      "destination": "/firm-news/robert-levy-recertified-as-civil-trial-attorney",
+      "statusCode": 301
+    }
+  ]
+}

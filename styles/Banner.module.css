@@ -1,0 +1,111 @@
+/** Banner Image **/
+.banner {
+  background: url(/images/nynj-sunrise-banner.webp) no-repeat center center;
+}
+
+.backPageBanner {
+  background: url(/images/dark-blue-banner.webp) no-repeat center center;
+}
+
+.holidayBanner {
+  background: url(/images/red-holiday-banner.webp) no-repeat center center;
+}
+
+/* /images/red-banner-opacity.png */
+.redBanner {
+  background-image: url(/images/red-banner-home.webp);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+}
+
+.banner,
+.backPageBanner,
+.holidayBanner {
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  display: flex;
+  border-top: 5px solid #000;
+  border-bottom: 5px solid #000;
+  margin-bottom: 1.5em;
+  height: auto;
+}
+
+.bannerContainer {
+  background-color: rgba(0, 0, 0, 0.556);
+  box-shadow: 3px 5px 10px #000;
+  border: 2px solid #000;
+  border-radius: 2px;
+}
+
+@media (min-width: 1200px) {
+  .redBanner {
+    width: 80%;
+  }
+}
+
+@media (min-width: 1400px) {
+  .redBanner {
+    width: 70%;
+  }
+}
+
+@media (min-width: 1650px) {
+  .redBanner {
+    width: 60%;
+  }
+}
+
+.homeBannerContainer,
+.bannerContainer {
+  color: #fff;
+  padding: 1em;
+}
+
+@media (min-width: 1200px) {
+  .homeBannerContainer {
+    margin-left: 4em;
+  }
+}
+
+.homeBanner {
+  margin-top: 6.5em;
+  margin-bottom: 6.5em;
+}
+
+.tabBanner,
+.noTabBanner {
+  margin-top: 3.5em;
+}
+
+.tabBanner {
+  margin-bottom: 5em;
+}
+
+.noTabBanner {
+  margin-bottom: 3.5em;
+}
+
+.multiBackBanner {
+  margin-top: 2.5em;
+  margin-bottom: 6em;
+}
+
+.h2Text {
+  margin-bottom: -15px;
+}
+
+.h3Text,
+.h2Text {
+  font-size: 3.4rem;
+  text-shadow: 3px 3px 3px #000;
+}
+
+@media (max-width: 768px) {
+  .banner {
+    flex-direction: column;
+  }
+}
